@@ -1,964 +1,468 @@
 ,movie_id,studio_producer,directors,authors,production_company
-0,31143,Famous Players-Lasky,William Wellman,"Hope Loring, Louis D. Lighton",Unknown
-1,31656,Famous Players-Lasky,William Wellman,"Hope Loring, Louis D. Lighton",Unknown
-2,31144,Metro-Goldwyn-Mayer,Harry Beaumont,"James Gleason, Norman Houston, Sarah Y. Mason",MGM Home Entertainment
-3,31145,Fox,"Irving Cummings, Raoul Walsh",Tom Barry,20th Century Fox Film Corporation
-4,31146,Cosmopolitan,George W. Hill,"Frances Marion, Martin Flavin, Joseph Farnham, Lennox Robinson",Warner Bros.
-5,31147,RKO Radio,Wesley Ruggles,"Howard Estabrook, Edna Ferber",MGM Home Entertainment
-6,31695,RKO Radio,Wesley Ruggles,"Howard Estabrook, Edna Ferber",MGM Home Entertainment
-7,31148,Metro-Goldwyn-Mayer,Edmund Goulding,William A. Drake,MGM Home Entertainment
-8,31724,Metro-Goldwyn-Mayer,Edmund Goulding,William A. Drake,MGM Home Entertainment
-9,31149,Metro-Goldwyn-Mayer,King Vidor,"Frances Marion, Leonard Praskins, Wanda Tuchock",MGM
-10,31150,Fox,Frank Lloyd,Reginald Berkeley,20th Century Fox Film Corporation
-11,31745,Fox,Frank Lloyd,Reginald Berkeley,20th Century Fox Film Corporation
-12,31151,Warner Bros.,Lloyd Bacon,"Rian James, James Seymour, Whitney Bolton",MGM Home Entertainment
-13,31741,Warner Bros.,Lloyd Bacon,"Rian James, James Seymour, Whitney Bolton",MGM Home Entertainment
-14,31152,Paramount,Frank Borzage,"Frank Borzage, Ernest Hemingway, Benjamin Glazer, Oliver H.P. Garrett",Gravitas
-15,31153,RKO Radio,George Cukor,"Sarah Y. Mason, Victor Heerman",WARNER BROTHERS PICTURES
-16,31755,RKO Radio,George Cukor,"Sarah Y. Mason, Victor Heerman",WARNER BROTHERS PICTURES
-17,32126,RKO Radio,George Cukor,"Sarah Y. Mason, Victor Heerman",WARNER BROTHERS PICTURES
-18,34494,RKO Radio,George Cukor,"Sarah Y. Mason, Victor Heerman",WARNER BROTHERS PICTURES
-19,40547,RKO Radio,George Cukor,"Sarah Y. Mason, Victor Heerman",WARNER BROTHERS PICTURES
-20,41876,RKO Radio,George Cukor,"Sarah Y. Mason, Victor Heerman",WARNER BROTHERS PICTURES
-21,31154,London Films,Alexander Korda,"Lajos Biró, Arthur Wimperis",Criterion Collection
-22,31155,Paramount,Lowell Sherman,"Mae West, Harvey Thew, John Bright",MCA Universal Home Video
-23,31758,Paramount,Lowell Sherman,"Mae West, Harvey Thew, John Bright",MCA Universal Home Video
-24,31156,Columbia,Frank Capra,Robert Riskin,Sony Pictures Home Entertainment
-25,31768,Columbia,Frank Capra,Robert Riskin,Sony Pictures Home Entertainment
-26,41607,Columbia,Frank Capra,Robert Riskin,Sony Pictures Home Entertainment
-27,31157,Metro-Goldwyn-Mayer,Sidney Franklin,"Ernest Vajda, Claudine West, Donald Ogden Stewart",MGM
-28,31158,RKO Radio,Mark Sandrich,"George Marion Jr., Edward Kaufman, Dwight Taylor, Dorothy Yost",RKO Radio Pictures
-29,31159,Universal,John M. Stahl,William Hurlbut,Universal Studios
-30,31767,Universal,John M. Stahl,William Hurlbut,Universal Studios
-31,32435,Universal,John M. Stahl,William Hurlbut,Universal Studios
-32,23540,Metro-Goldwyn-Mayer,W.S. Van Dyke,"Dashiell Hammett, Frances Goodrich, Albert Hackett",MGM
-33,31160,Metro-Goldwyn-Mayer,W.S. Van Dyke,"Dashiell Hammett, Frances Goodrich, Albert Hackett",MGM
-34,41751,Metro-Goldwyn-Mayer,W.S. Van Dyke,"Dashiell Hammett, Frances Goodrich, Albert Hackett",MGM
-35,31161,Metro-Goldwyn-Mayer,Frank Lloyd,"Jules Furthman, Talbot Jennings, Carey Wilson",MGM
-36,31303,Metro-Goldwyn-Mayer,Frank Lloyd,"Jules Furthman, Talbot Jennings, Carey Wilson",MGM
-37,31788,Metro-Goldwyn-Mayer,Frank Lloyd,"Jules Furthman, Talbot Jennings, Carey Wilson",MGM
-38,31162,RKO Radio,George Stevens,"Mortimer Offner, Dorothy Yost",Turner Home Entertainment
-39,31163,Cosmopolitan,Michael Curtiz,Casey Robinson,Twentieth Century Fox Home Entertainment
-40,31164,RKO Radio,John Ford,Dudley Nichols,Media Home Entertainment
-41,31165,Warner Bros.,"William Dieterle, Max Reinhardt","Mary C. McCall Jr., Charles Kenyon",Warner Bros.
-42,31166,RKO Radio,Mark Sandrich,"Dwight Taylor, Allan Scott",Turner Home Entertainment
-43,31792,RKO Radio,Mark Sandrich,"Dwight Taylor, Allan Scott",Turner Home Entertainment
-44,31167,Metro-Goldwyn-Mayer,Robert Z. Leonard,William Anthony McGuire,MGM Home Entertainment
-45,31168,Samuel Goldwyn Productions,William Wyler,Sidney Howard,Samuel Goldwyn Films
-46,31169,Metro-Goldwyn-Mayer,Jack Conway,"George Oppenheimer, Maurine Dallas Watkins, Wallace Sullivan, Howard Emmet Rogers, Maurine Watkins",Warner Home Video
-47,31170,Columbia,Frank Capra,Robert Riskin,Columbia Pictures
-48,31803,Columbia,Frank Capra,Robert Riskin,Columbia Pictures
-49,31171,Metro-Goldwyn-Mayer,George Cukor,Talbot Jennings,MGM
-50,31329,Metro-Goldwyn-Mayer,George Cukor,Talbot Jennings,MGM
-51,31811,Metro-Goldwyn-Mayer,George Cukor,Talbot Jennings,MGM
-52,32841,Metro-Goldwyn-Mayer,George Cukor,Talbot Jennings,MGM
-53,31172,Metro-Goldwyn-Mayer,"D.W. Griffith, W.S. Van Dyke","Anita Loos, Erich von Stroheim, Robert E. Hopkins",MGM
-54,31813,Metro-Goldwyn-Mayer,"D.W. Griffith, W.S. Van Dyke","Anita Loos, Erich von Stroheim, Robert E. Hopkins",MGM
-55,31173,Metro-Goldwyn-Mayer,Jack Conway,"S.N. Behrmann, W.P. Lipscomb",Warner Home Video
-56,31591,Metro-Goldwyn-Mayer,Jack Conway,"S.N. Behrmann, W.P. Lipscomb",Warner Home Video
-57,31174,Universal,Henry Koster,"Adele Comandini, Austin Parker",Universal Pictures
-58,31175,Warner Bros.,"Irving Rapper, William Dieterle","Norman Reilly Raine, Heinz Herald, Geza Herczeg",MGM Home Entertainment
-59,31176,Columbia,Leo McCarey,Viña Delmar,Columbia
-60,31177,Metro-Goldwyn-Mayer,Victor Fleming,"John Lee Mahin, Marc Connelly, Dale Van Every, Marc Connolly",MGM Home Entertainment
-61,31822,Metro-Goldwyn-Mayer,Victor Fleming,"John Lee Mahin, Marc Connelly, Dale Van Every, Marc Connolly",MGM Home Entertainment
-62,1490,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-63,6591,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-64,12132,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-65,13266,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-66,13813,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-67,16716,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-68,17963,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-69,21429,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-70,23405,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-71,26770,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-72,26922,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-73,28411,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-74,31178,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
-75,31179,Metro-Goldwyn-Mayer,"Sidney Franklin, Victor Fleming","Claudine West, Talbot Jennings, Tess Slesinger, Donald Davis",WARNER BROTHERS PICTURES
-76,31180,Columbia,Frank Capra,Robert Riskin,Sony Pictures Home Entertainment
-77,31827,Columbia,Frank Capra,Robert Riskin,Sony Pictures Home Entertainment
-78,31181,RKO Radio,Gregory La Cava,"Gregory La Cava, Morrie Ryskind, Anthony Veiller",Warner Home Video
-79,31837,RKO Radio,Gregory La Cava,"Gregory La Cava, Morrie Ryskind, Anthony Veiller",Warner Home Video
-80,31182,Selznick International Pictures,"William Wellman, Jack Conway","Dorothy Parker, Alan Campbell, Bob Carson, Ring Lardner Jr., Budd Schulberg, David O. Selznick, William Wellman, John Lee Mahin, Ben Hecht, Adela Rogers St. John, W. Howard Greene",Image Entertainment Inc.
-81,31576,Selznick International Pictures,"William Wellman, Jack Conway","Dorothy Parker, Alan Campbell, Bob Carson, Ring Lardner Jr., Budd Schulberg, David O. Selznick, William Wellman, John Lee Mahin, Ben Hecht, Adela Rogers St. John, W. Howard Greene",Image Entertainment Inc.
-82,32235,Selznick International Pictures,"William Wellman, Jack Conway","Dorothy Parker, Alan Campbell, Bob Carson, Ring Lardner Jr., Budd Schulberg, David O. Selznick, William Wellman, John Lee Mahin, Ben Hecht, Adela Rogers St. John, W. Howard Greene",Image Entertainment Inc.
-83,33188,Selznick International Pictures,"William Wellman, Jack Conway","Dorothy Parker, Alan Campbell, Bob Carson, Ring Lardner Jr., Budd Schulberg, David O. Selznick, William Wellman, John Lee Mahin, Ben Hecht, Adela Rogers St. John, W. Howard Greene",Image Entertainment Inc.
-84,40127,Selznick International Pictures,"William Wellman, Jack Conway","Dorothy Parker, Alan Campbell, Bob Carson, Ring Lardner Jr., Budd Schulberg, David O. Selznick, William Wellman, John Lee Mahin, Ben Hecht, Adela Rogers St. John, W. Howard Greene",Image Entertainment Inc.
-85,42194,Selznick International Pictures,"William Wellman, Jack Conway","Dorothy Parker, Alan Campbell, Bob Carson, Ring Lardner Jr., Budd Schulberg, David O. Selznick, William Wellman, John Lee Mahin, Ben Hecht, Adela Rogers St. John, W. Howard Greene",Image Entertainment Inc.
-86,31183,Warner Bros.-First National,"Michael Curtiz, William Keighley","Norman Reilly Raine, Seton I. Miller, Michael Curtiz, William Keighley",Warner Bros.
-87,41855,Warner Bros.-First National,"Michael Curtiz, William Keighley","Norman Reilly Raine, Seton I. Miller, Michael Curtiz, William Keighley",Warner Bros.
-88,31184,20th Century-Fox,Henry King,"Lamar Trotti, Kathryn Scola, Irving Berlin, Richard Sherman",20th Century Fox Film Corporation
-89,31185,Metro-Goldwyn-Mayer,Norman Taurog,"Dore Schary, Eleanore Griffin, John Meehan",MGM Home Entertainment
-90,31845,Metro-Goldwyn-Mayer,Norman Taurog,"Dore Schary, Eleanore Griffin, John Meehan",MGM Home Entertainment
-91,31186,Metro-Goldwyn-Mayer,King Vidor,"Ian Dalrymple, Frank Wead, Elizabeth Hill, Emlyn Williams",MGM Home Entertainment
-92,31187,Warner Bros.-First National,Edmund Goulding,"Casey Robinson, Bertram Bloch",Twentieth Century Fox Home Entertainment
-93,31859,Warner Bros.-First National,Edmund Goulding,"Casey Robinson, Bertram Bloch",Twentieth Century Fox Home Entertainment
-94,31188,Metro-Goldwyn-Mayer,Sam Wood,"R.C. Sherriff, Eric Maschwitz, Claudine West, James Hilton, Sidney Franklin",MGM Home Entertainment
-95,31866,Metro-Goldwyn-Mayer,Sam Wood,"R.C. Sherriff, Eric Maschwitz, Claudine West, James Hilton, Sidney Franklin",MGM Home Entertainment
-96,31189,RKO Radio,Leo McCarey,"Delmer Daves, Donald Ogden Stewart, Leo McCarey",Madacy Entertainment
-97,31875,RKO Radio,Leo McCarey,"Delmer Daves, Donald Ogden Stewart, Leo McCarey",Madacy Entertainment
-98,31190,Columbia,Frank Capra,Sidney Buchman,Sony Pictures Home Entertainment
-99,31876,Columbia,Frank Capra,Sidney Buchman,Sony Pictures Home Entertainment
-100,41604,Columbia,Frank Capra,Sidney Buchman,Sony Pictures Home Entertainment
-101,31191,Metro-Goldwyn-Mayer,Ernst Lubitsch,"Charles Brackett, Billy Wilder, Walter Reisch, Ernst Lubitsch, Melchior Lengyel",Warner Bros. Pictures
-102,31879,Metro-Goldwyn-Mayer,Ernst Lubitsch,"Charles Brackett, Billy Wilder, Walter Reisch, Ernst Lubitsch, Melchior Lengyel",Warner Bros. Pictures
-103,31192,Hal Roach (production company),Lewis Milestone,Eugene Solow,United Artists
-104,31880,Hal Roach (production company),Lewis Milestone,Eugene Solow,United Artists
-105,31193,Walter Wanger (production company),John Ford,"Ben Hecht, Dudley Nichols",Warner Home Video
-106,31883,Walter Wanger (production company),John Ford,"Ben Hecht, Dudley Nichols",Warner Home Video
-107,42004,Walter Wanger (production company),John Ford,"Ben Hecht, Dudley Nichols",Warner Home Video
-108,31194,Metro-Goldwyn-Mayer,"King Vidor, Victor Fleming","Florence Ryerson, Noel Langley, Edgar Allan Woolf",Warner Bros. Pictures
-109,41749,Metro-Goldwyn-Mayer,"King Vidor, Victor Fleming","Florence Ryerson, Noel Langley, Edgar Allan Woolf",Warner Bros. Pictures
-110,31195,Samuel Goldwyn Productions,William Wyler,"Ben Hecht, Charles MacArthur",United Artists
-111,31887,Samuel Goldwyn Productions,William Wyler,"Ben Hecht, Charles MacArthur",United Artists
-112,38078,Samuel Goldwyn Productions,William Wyler,"Ben Hecht, Charles MacArthur",United Artists
-113,31196,Warner Bros.,Anatole Litvak,Casey Robinson,Warner Bros. Pictures
-114,31890,Warner Bros.,Anatole Litvak,Casey Robinson,Warner Bros. Pictures
-115,31197,Walter Wanger (production company),Alfred Hitchcock,"Charles Bennett, James Hilton, Joan Harrison, Richard Maibaum, Robert Benchley",Warner Home Video
-116,31898,Walter Wanger (production company),Alfred Hitchcock,"Charles Bennett, James Hilton, Joan Harrison, Richard Maibaum, Robert Benchley",Warner Home Video
-117,31198,20th Century-Fox,John Ford,Nunnally Johnson,20th Century Fox Film Corporation
-118,41748,20th Century-Fox,John Ford,Nunnally Johnson,20th Century Fox Film Corporation
-119,31199,Charles Chaplin Productions,Charles Chaplin,Charles Chaplin,Criterion Collection
-120,41375,Charles Chaplin Productions,Charles Chaplin,Charles Chaplin,Criterion Collection
-121,31200,RKO Radio,Sam Wood,"Dalton Trumbo, Donald Ogden Stewart",Media Home Entertainment
-122,29230,Warner Bros.,William Wyler,Howard Koch,MGM Home Entertainment
-123,31201,Warner Bros.,William Wyler,Howard Koch,MGM Home Entertainment
-124,31202,Sol Lesser (production company),Sam Wood,"Frank Craven, Thornton Wilder, Harry Chandlee",United Artists
-125,31203,Metro-Goldwyn-Mayer,George Cukor,"Donald Ogden Stewart, Waldo Salt",MGM
-126,41853,Metro-Goldwyn-Mayer,George Cukor,"Donald Ogden Stewart, Waldo Salt",MGM
-127,31204,20th Century-Fox,John Ford,"Richard Llewellyn, Philip Dunne",Twentieth Century Fox Home Entertainment
-128,31927,20th Century-Fox,John Ford,"Richard Llewellyn, Philip Dunne",Twentieth Century Fox Home Entertainment
-129,31205,Metro-Goldwyn-Mayer,Mervyn LeRoy,"Anita Loos, Ralph Wheelwright",WARNER BROTHERS PICTURES
-130,31206,Mercury,Orson Welles,"Herman J. Mankiewicz, Orson Welles",RKO Radio Pictures
-131,31922,Mercury,Orson Welles,"Herman J. Mankiewicz, Orson Welles",RKO Radio Pictures
-132,41416,Mercury,Orson Welles,"Herman J. Mankiewicz, Orson Welles",RKO Radio Pictures
-133,31207,Columbia,Alexander Hall,"Sidney Buchman, Harry Segall, Seton I. Miller",Sony Pictures Entertainment
-134,31208,Samuel Goldwyn Productions,William Wyler,"Lillian Hellman, Dorothy Parker, Arthur Kober, Alan Campbell",RKO
-135,31209,Warner Bros.,John Huston,John Huston,Warner Bros.
-136,41747,Warner Bros.,John Huston,John Huston,Warner Bros.
-137,31210,Warner Bros.,Howard Hawks,"Abem Finkel, Harry Chandlee, Howard Koch, John Huston",Warner Bros. Pictures
-138,31211,RKO Radio,Alfred Hitchcock,"Joan Harrison, Alma Reville, Alfred Hitchcock, Samson Raphaelson",WARNER BROTHERS PICTURES
-139,31941,RKO Radio,Alfred Hitchcock,"Joan Harrison, Alma Reville, Alfred Hitchcock, Samson Raphaelson",WARNER BROTHERS PICTURES
-140,31212,Metro-Goldwyn-Mayer,William Wyler,"Arthur Wimperis, James Hilton, Claudine West, George Froeschel",MGM Home Entertainment
-141,31955,Metro-Goldwyn-Mayer,William Wyler,"Arthur Wimperis, James Hilton, Claudine West, George Froeschel",MGM Home Entertainment
-142,31213,Warner Bros.,Sam Wood,Casey Robinson,Warner Home Video
-143,31214,Mercury,Orson Welles,Orson Welles,RKO Radio Pictures
-144,31215,Samuel Goldwyn Productions,Sam Wood,"Jo Swerling, Herman J. Mankiewicz, Paul Gallico",MGM
-145,31216,Metro-Goldwyn-Mayer,Mervyn LeRoy,"George Froeschel, Claudine West, Arthur Wimperis",MGM Home Entertainment
-146,31217,Columbia,George Stevens,"Irwin Shaw, Sidney Buchman, Sidney Harmon, Dale Van Every",Sony Pictures Entertainment
-147,31218,Warner Bros.,"Michael Curtiz, Hugh MacMullan","Robert Buckner, Edmund Joseph",MGM Home Entertainment
-148,31219,Warner Bros.,Michael Curtiz,"Julius J. Epstein, Philip G. Epstein, Howard Koch, Michael Curtiz",Warner Bros. Pictures
-149,31946,Warner Bros.,Michael Curtiz,"Julius J. Epstein, Philip G. Epstein, Howard Koch, Michael Curtiz",Warner Bros. Pictures
-150,41342,Warner Bros.,Michael Curtiz,"Julius J. Epstein, Philip G. Epstein, Howard Koch, Michael Curtiz",Warner Bros. Pictures
-151,31220,Paramount,Sam Wood,Dudley Nichols,MCA Universal Home Video
-152,31221,20th Century-Fox,Ernst Lubitsch,Samson Raphaelson,20th Century Fox Film Corporation
-153,31369,20th Century-Fox,Ernst Lubitsch,Samson Raphaelson,20th Century Fox Film Corporation
-154,31971,20th Century-Fox,Ernst Lubitsch,Samson Raphaelson,20th Century Fox Film Corporation
-155,31222,Metro-Goldwyn-Mayer,Clarence Brown,Howard Estabrook,Warner Home Video
-156,31223,Two Cities Films,"David Lean, Noel Coward",Noel Coward,MCA Universal Home Video
-157,31224,Metro-Goldwyn-Mayer,Mervyn LeRoy,"Paul Osborn, Paul H. Rameau",Warner Bros. Pictures
-158,31225,Columbia,George Stevens,"Robert Russell, Frank Ross, Richard Flournoy, Lewis R. Foster",Columbia Pictures
-159,31226,20th Century-Fox,Henry King,George Seaton,Twentieth Century Fox Home Entertainment
-160,31227,Warner Bros.,Herman Shumlin,"Dashiell Hammett, Lillian Hellman",Warner Home Video
-161,31989,Warner Bros.,Herman Shumlin,"Dashiell Hammett, Lillian Hellman",Warner Home Video
-162,31228,Paramount,Leo McCarey,"Frank Corvett, Frank Butler, Frank Cavett, Leo McCarey",Paramount Pictures
-163,31229,Paramount,Billy Wilder,"Raymond Chandler, Billy Wilder",Paramount Pictures
-164,31994,Paramount,Billy Wilder,"Raymond Chandler, Billy Wilder",Paramount Pictures
-165,41415,Paramount,Billy Wilder,"Raymond Chandler, Billy Wilder",Paramount Pictures
-166,25687,Metro-Goldwyn-Mayer,George Cukor,"John Van Druten, Walter Reisch, John L. Balderston",MGM
-167,31230,Metro-Goldwyn-Mayer,George Cukor,"John Van Druten, Walter Reisch, John L. Balderston",MGM
-168,31899,Metro-Goldwyn-Mayer,George Cukor,"John Van Druten, Walter Reisch, John L. Balderston",MGM
-169,31231,Paramount,Billy Wilder,"Billy Wilder, Charles Brackett",Paramount Pictures
-170,41852,Paramount,Billy Wilder,"Billy Wilder, Charles Brackett",Paramount Pictures
-171,31232,Metro-Goldwyn-Mayer,George Sidney,Isobel Lennart,MGM Home Entertainment
-172,32011,Metro-Goldwyn-Mayer,George Sidney,Isobel Lennart,MGM Home Entertainment
-173,31233,Warner Bros.,Michael Curtiz,Ranald MacDougall,MGM Home Entertainment
-174,32025,Warner Bros.,Michael Curtiz,Ranald MacDougall,MGM Home Entertainment
-175,31234,Samuel Goldwyn Productions,William Wyler,Robert E. Sherwood,RKO Radio Pictures
-176,41745,Samuel Goldwyn Productions,William Wyler,Robert E. Sherwood,RKO Radio Pictures
-177,31235,Liberty Films,Frank Capra,"Frank Capra, Frances Goodrich, Albert Hackett",Liberty Films
-178,41324,Liberty Films,Frank Capra,"Frank Capra, Frances Goodrich, Albert Hackett",Liberty Films
-179,31236,20th Century-Fox,Edmund Goulding,Lamar Trotti,Twentieth Century Fox
-180,31237,Metro-Goldwyn-Mayer,Clarence Brown,Paul Osborn,MGM Home Entertainment
-181,31238,20th Century-Fox,Elia Kazan,Moss Hart,Twentieth Century Fox Home Entertainment
-182,12391,RKO Radio,Edward Dmytryk,John Paxton,WARNER BROTHERS PICTURES
-183,31239,RKO Radio,Edward Dmytryk,John Paxton,WARNER BROTHERS PICTURES
-184,32065,RKO Radio,Edward Dmytryk,John Paxton,WARNER BROTHERS PICTURES
-185,31240,20th Century-Fox,George Seaton,George Seaton,20th Century Fox
-186,32076,20th Century-Fox,George Seaton,George Seaton,20th Century Fox
-187,34498,20th Century-Fox,George Seaton,George Seaton,20th Century Fox
-188,41849,20th Century-Fox,George Seaton,George Seaton,20th Century Fox
-189,25618,J. Arthur Rank-Two Cities Films,Laurence Olivier,"Laurence Olivier, Alan Dent",Universal
-190,31241,J. Arthur Rank-Two Cities Films,Laurence Olivier,"Laurence Olivier, Alan Dent",Universal
-191,32096,J. Arthur Rank-Two Cities Films,Laurence Olivier,"Laurence Olivier, Alan Dent",Universal
-192,34719,J. Arthur Rank-Two Cities Films,Laurence Olivier,"Laurence Olivier, Alan Dent",Universal
-193,42103,J. Arthur Rank-Two Cities Films,Laurence Olivier,"Laurence Olivier, Alan Dent",Universal
-194,31242,Warner Bros.,Jean Negulesco,"Allen Vincent, Irma von Cube",Warner Bros. Pictures
-195,3780,J. Arthur Rank-Archers,"Michael Powell, Emeric Pressburger","Michael Powell, Emeric Pressburger, Keith Winter",Eagle-Lion Films
-196,31243,J. Arthur Rank-Archers,"Michael Powell, Emeric Pressburger","Michael Powell, Emeric Pressburger, Keith Winter",Eagle-Lion Films
-197,41601,J. Arthur Rank-Archers,"Michael Powell, Emeric Pressburger","Michael Powell, Emeric Pressburger, Keith Winter",Eagle-Lion Films
-198,31244,20th Century-Fox,Anatole Litvak,"Frank Partos, Millen Brand",20th Century Fox Film Corporation
-199,31245,Warner Bros.,John Huston,John Huston,WARNER BROTHERS PICTURES
-200,41482,Warner Bros.,John Huston,John Huston,WARNER BROTHERS PICTURES
-201,31246,Columbia,Robert Rossen,"Robert Rossen, Robert Penn Warren",Sony Pictures Home Entertainment
-202,31247,Metro-Goldwyn-Mayer,William Wellman,Robert Pirosh,MGM
-203,31248,20th Century-Fox,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Vera Caspary",Fox
-204,32111,20th Century-Fox,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Vera Caspary",Fox
-205,31249,20th Century-Fox,Henry King,"Beirne Lay, Lt. Beirne Lay Jr., Sy Bartlett",Twentieth Century Fox Home Entertainment
-206,31250,20th Century-Fox,Joseph L. Mankiewicz,Joseph L. Mankiewicz,20th Century Fox
-207,32135,20th Century-Fox,Joseph L. Mankiewicz,Joseph L. Mankiewicz,20th Century Fox
-208,41481,20th Century-Fox,Joseph L. Mankiewicz,Joseph L. Mankiewicz,20th Century Fox
-209,31251,Columbia,George Cukor,Albert Mannheimer,Columbia Pictures
-210,32137,Columbia,George Cukor,Albert Mannheimer,Columbia Pictures
-211,31252,Metro-Goldwyn-Mayer,Vincente Minnelli,"Frances Goodrich, Albert Hackett",MGM
-212,31253,Metro-Goldwyn-Mayer,"Compton Bennett, Andrew Marton","Helen Deutsch, Compton Bennett, Andrew Marton",MGM Home Entertainment
-213,31254,Paramount,Billy Wilder,"D.M. Marshman, Jr., Charles Brackett, Billy Wilder",Paramount Pictures
-214,31255,Arthur Freed,Vincente Minnelli,"Alan Jay Lerner, Vincente Minnelli",MGM
-215,32162,Arthur Freed,Vincente Minnelli,"Alan Jay Lerner, Vincente Minnelli",MGM
-216,31256,Anatole Litvak and Frank McCarthy,Anatole Litvak,Peter Viertel,20th Century Fox Film Corporation
-217,31257,George Stevens,George Stevens,"Michael Wilson, Harry Brown",Paramount Pictures
-218,31258,Charles K. Feldman,Elia Kazan,"Tennessee Williams, Oscar Saul",Warner Bros. Pictures
-219,32158,Charles K. Feldman,Elia Kazan,"Tennessee Williams, Oscar Saul",Warner Bros. Pictures
-220,41738,Charles K. Feldman,Elia Kazan,"Tennessee Williams, Oscar Saul",Warner Bros. Pictures
-221,31259,Cecil B. DeMille,Cecil B. DeMille,"Fredric M. Frank, Barré Lyndon, Theodore St. John, Frank Cavett",Paramount Pictures
-222,31260,Stanley Kramer,Fred Zinnemann,Carl Foreman,United Artists
-223,32183,Stanley Kramer,Fred Zinnemann,Carl Foreman,United Artists
-224,41846,Stanley Kramer,Fred Zinnemann,Carl Foreman,United Artists
-225,31261,Pandro S. Berman,Richard Thorpe,"Noel Langley, Aeneas MacKenzie",MGM Home Entertainment
-226,32185,Pandro S. Berman,Richard Thorpe,"Noel Langley, Aeneas MacKenzie",MGM Home Entertainment
-227,31262,"John Huston, John Woolf and James Woolf",John Huston,"Anthony Veiller, John Huston",United Artists
-228,31263,John Ford and Merian C. Cooper,John Ford,"Frank S. Nugent, Richard Llewellyn",Republic Pictures
-229,42162,John Ford and Merian C. Cooper,John Ford,"Frank S. Nugent, Richard Llewellyn",Republic Pictures
-230,31264,Buddy Adler,Fred Zinnemann,Daniel Taradash,NCM Fathom
-231,32204,Buddy Adler,Fred Zinnemann,Daniel Taradash,NCM Fathom
-232,42288,Buddy Adler,Fred Zinnemann,Daniel Taradash,NCM Fathom
-233,31265,John Houseman,Joseph L. Mankiewicz,Joseph L. Mankiewicz,MGM Home Entertainment
-234,32213,John Houseman,Joseph L. Mankiewicz,Joseph L. Mankiewicz,MGM Home Entertainment
-235,31266,Frank Ross,Henry Koster,"Philip Dunne, Albert Maltz, Gina Kaus",20th Century Fox
-236,31267,William Wyler,William Wyler,"John Dighton, Ian McLellan Hunter, Dalton Trumbo, William Wyler",Paramount Pictures
-237,41737,William Wyler,William Wyler,"John Dighton, Ian McLellan Hunter, Dalton Trumbo, William Wyler",Paramount Pictures
-238,31268,George Stevens,George Stevens,"A.B. Guthrie Jr., Jack Sher",Paramount Home Video
-239,32225,George Stevens,George Stevens,"A.B. Guthrie Jr., Jack Sher",Paramount Home Video
-240,31269,Sam Spiegel,Elia Kazan,Budd Schulberg,Sony Pictures
-241,32254,Sam Spiegel,Elia Kazan,Budd Schulberg,Sony Pictures
-242,41596,Sam Spiegel,Elia Kazan,Budd Schulberg,Sony Pictures
-243,31270,Stanley Kramer,Edward Dmytryk,"Stanley Roberts, Michael Blankfort",Sony Pictures Home Entertainment
-244,31271,William Perlberg,George Seaton,George Seaton,Paramount Pictures
-245,31272,Jack Cummings,Stanley Donen,"Albert Hackett, Frances Goodrich, Dorothy Kingsley",MGM Home Entertainment
-246,32260,Jack Cummings,Stanley Donen,"Albert Hackett, Frances Goodrich, Dorothy Kingsley",MGM Home Entertainment
-247,31273,Sol C. Siegel,Jean Negulesco,John Patrick,20th Century Fox Film Corporation
-248,32264,Sol C. Siegel,Jean Negulesco,John Patrick,20th Century Fox Film Corporation
-249,31274,Harold Hecht,Delbert Mann,Paddy Chayefsky,MGM Home Entertainment
-250,32286,Harold Hecht,Delbert Mann,Paddy Chayefsky,MGM Home Entertainment
-251,31275,Leland Hayward,"John Ford, Mervyn LeRoy","Frank S. Nugent, Joshua Logan",Warner Home Video
-252,31276,Fred Kohlmar,Joshua Logan,Daniel Taradash,Sony Pictures Home Entertainment
-253,31277,Hal B. Wallis,Daniel Mann,"Tennessee Williams, Hal Kanter",Paramount Pictures
-254,31278,Michael Todd,Michael Anderson,"John Farrow, James Poe, S.J. Perelman",United Artists
-255,35888,Michael Todd,Michael Anderson,"John Farrow, James Poe, S.J. Perelman",United Artists
-256,31279,William Wyler,William Wyler,Michael Wilson,Twentieth Century Fox Home Entertainment
-257,31280,George Stevens and Henry Ginsberg,George Stevens,"Fred Guiol, Ivan Moffat",Warner Bros. Pictures
-258,42287,George Stevens and Henry Ginsberg,George Stevens,"Fred Guiol, Ivan Moffat",Warner Bros. Pictures
-259,31281,Charles Brackett,Walter Lang,Ernest Lehman,20th Century Fox
-260,31282,Cecil B. DeMille,Cecil B. DeMille,"Jesse L. Lasky, Aeneas MacKenzie, Fredric M. Frank, Jack Gariss, Jesse Lasky Jr.",Paramount Pictures
-261,41843,Cecil B. DeMille,Cecil B. DeMille,"Jesse L. Lasky, Aeneas MacKenzie, Fredric M. Frank, Jack Gariss, Jesse Lasky Jr.",Paramount Pictures
-262,31283,Sam Spiegel,David Lean,"Michael Wilson, Carl Foreman",Columbia Pictures
-263,41595,Sam Spiegel,David Lean,"Michael Wilson, Carl Foreman",Columbia Pictures
-264,31284,Jerry Wald,Mark Robson,John Michael Hayes,20th Century Fox
-265,31285,Arthur Hornblow Jr.,Billy Wilder,"Billy Wilder, Lawrence B. Marcus, Harry Kurnitz",MGM
-266,32382,Arthur Hornblow Jr.,Billy Wilder,"Billy Wilder, Lawrence B. Marcus, Harry Kurnitz",MGM
-267,41371,Arthur Hornblow Jr.,Billy Wilder,"Billy Wilder, Lawrence B. Marcus, Harry Kurnitz",MGM
-268,31286,Arthur Freed,Vincente Minnelli,"Alan Jay Lerner, Frederick Loewe",MGM Home Entertainment
-269,32393,Arthur Freed,Vincente Minnelli,"Alan Jay Lerner, Frederick Loewe",MGM Home Entertainment
-270,31287,Jack L. Warner,Morton DaCosta,"Betty Comden, Adolph Green, Robert E. Lee, Dennis Patrick",Warner Bros. Pictures
-271,32383,Jack L. Warner,Morton DaCosta,"Betty Comden, Adolph Green, Robert E. Lee, Dennis Patrick",Warner Bros. Pictures
-272,31288,Stanley Kramer,Stanley Kramer,"Harold Jacob Smith, Ned Young, Nathan E. Douglas",MGM Home Entertainment
-273,31289,Harold Hecht,Delbert Mann,"John Gay, Terence Rattigan",MGM Home Entertainment
-274,32408,Harold Hecht,Delbert Mann,"John Gay, Terence Rattigan",MGM Home Entertainment
-275,31290,Sam Zimbalist,William Wyler,Karl Tunberg,MGM
-276,32425,Sam Zimbalist,William Wyler,Karl Tunberg,MGM
-277,39574,Sam Zimbalist,William Wyler,Karl Tunberg,MGM
-278,41591,Sam Zimbalist,William Wyler,Karl Tunberg,MGM
-279,31291,Otto Preminger,Otto Preminger,Wendell Mayes,Sony Pictures Home Entertainment
-280,32418,Otto Preminger,Otto Preminger,Wendell Mayes,Sony Pictures Home Entertainment
-281,41728,Otto Preminger,Otto Preminger,Wendell Mayes,Sony Pictures Home Entertainment
-282,31292,George Stevens,George Stevens,"Albert Hackett, Frances Goodrich",Fox
-283,31293,Henry Blanke,Fred Zinnemann,Robert Anderson,Warner Home Video
-284,30483,Billy Wilder,Billy Wilder,"Billy Wilder, I.A.L. Diamond",United Artists
-285,31294,Billy Wilder,Billy Wilder,"Billy Wilder, I.A.L. Diamond",United Artists
-286,41409,Billy Wilder,Billy Wilder,"Billy Wilder, I.A.L. Diamond",United Artists
-287,31295,John Wayne,John Wayne,James Edward Grant,Batjac Productions
-288,31296,Fred Zinnemann,Fred Zinnemann,Isobel Lennart,Warner Home Video
-289,31297,Robert Wise,"Robert Wise, Jerome Robbins",Ernest Lehman,United Artists Films
-290,32527,Robert Wise,"Robert Wise, Jerome Robbins",Ernest Lehman,United Artists Films
-291,40975,Robert Wise,"Robert Wise, Jerome Robbins",Ernest Lehman,United Artists Films
-292,31298,Carl Foreman,J. Lee Thompson,"J. Lee Thompson, Carl Foreman",Columbia Pictures
-293,31299,Robert Rossen,Robert Rossen,"Sidney Carroll, Robert Rossen",Fox
-294,41725,Robert Rossen,Robert Rossen,"Sidney Carroll, Robert Rossen",Fox
-295,31300,Sam Spiegel,David Lean,"Robert Bolt, Michael Wilson",Columbia Pictures
-296,32554,Sam Spiegel,David Lean,"Robert Bolt, Michael Wilson",Columbia Pictures
-297,41408,Sam Spiegel,David Lean,"Robert Bolt, Michael Wilson",Columbia Pictures
-298,31301,Darryl F. Zanuck,"Ken Annakin, Andrew Marton, Gerd Oswald, Bernhard Wicki, Darryl F. Zanuck","Cornelius Ryan, David Pursall, James Jones, Jack Seddon, Romain Gary",Twentieth Century Fox Home Entertainment
-299,41996,Darryl F. Zanuck,"Ken Annakin, Andrew Marton, Gerd Oswald, Bernhard Wicki, Darryl F. Zanuck","Cornelius Ryan, David Pursall, James Jones, Jack Seddon, Romain Gary",Twentieth Century Fox Home Entertainment
-300,31302,Morton DaCosta,Morton DaCosta,Marion Hargrove,Warner Bros. Pictures
-301,31161,Aaron Rosenberg,"Lewis Milestone, Carol Reed",Charles Lederer,WARNER BROTHERS PICTURES
-302,31303,Aaron Rosenberg,"Lewis Milestone, Carol Reed",Charles Lederer,WARNER BROTHERS PICTURES
-303,31788,Aaron Rosenberg,"Lewis Milestone, Carol Reed",Charles Lederer,WARNER BROTHERS PICTURES
-304,31304,Tony Richardson,Tony Richardson,John Osborne,Woodfall Film Productions
-305,32610,Tony Richardson,Tony Richardson,John Osborne,Woodfall Film Productions
-306,31305,Elia Kazan,Elia Kazan,Elia Kazan,Warner Home Video
-307,31306,Walter Wanger,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Ranald MacDougall, Sidney Buchman",20th Century Fox
-308,31583,Walter Wanger,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Ranald MacDougall, Sidney Buchman",20th Century Fox
-309,31764,Walter Wanger,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Ranald MacDougall, Sidney Buchman",20th Century Fox
-310,32582,Walter Wanger,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Ranald MacDougall, Sidney Buchman",20th Century Fox
-311,31307,Ralph Nelson,Ralph Nelson,James Poe,Twentieth Century Fox Home Entertainment
-312,31308,Hal B. Wallis,Peter Glenville,"Edward Anhalt, Jean Anouilh",Slowhand Releasing
-313,31309,Walt Disney and Bill Walsh,Robert Stevenson,"Don DaGradi, Bill Walsh",Walt Disney Productions
-314,32647,Walt Disney and Bill Walsh,Robert Stevenson,"Don DaGradi, Bill Walsh",Walt Disney Productions
-315,41995,Walt Disney and Bill Walsh,Robert Stevenson,"Don DaGradi, Bill Walsh",Walt Disney Productions
-316,31310,Michael Cacoyannis,,,Fox
-317,31311,Robert Wise,Robert Wise,Ernest Lehman,20th Century-Fox
-318,41720,Robert Wise,Robert Wise,Ernest Lehman,20th Century-Fox
-319,4810,Joseph Janni,John Schlesinger,Frederic Raphael,Lionsgate
-320,7527,Joseph Janni,John Schlesinger,Frederic Raphael,Lionsgate
-321,10394,Joseph Janni,John Schlesinger,Frederic Raphael,Lionsgate
-322,31312,Joseph Janni,John Schlesinger,Frederic Raphael,Lionsgate
-323,32674,Joseph Janni,John Schlesinger,Frederic Raphael,Lionsgate
-324,31313,Carlo Ponti,David Lean,Robert Bolt,MGM
-325,32676,Carlo Ponti,David Lean,Robert Bolt,MGM
-326,41721,Carlo Ponti,David Lean,Robert Bolt,MGM
-327,31314,Stanley Kramer,Stanley Kramer,"Abby Mann, Stanley Kramer",Columbia Pictures
-328,31315,Fred Zinnemann,Fred Zinnemann,"Robert Bolt, Constance Willis",Sony Pictures Home Entertainment
-329,32707,Fred Zinnemann,Fred Zinnemann,"Robert Bolt, Constance Willis",Sony Pictures Home Entertainment
-330,42149,Fred Zinnemann,Fred Zinnemann,"Robert Bolt, Constance Willis",Sony Pictures Home Entertainment
-331,31316,Lewis Gilbert,Lewis Gilbert,Bill Naughton,Paramount Pictures
-332,32708,Lewis Gilbert,Lewis Gilbert,Bill Naughton,Paramount Pictures
-333,31317,Norman Jewison,Norman Jewison,"William Rose, Nathaniel Benchley",MGM
-334,31318,Robert Wise,Robert Wise,Robert Anderson,Twentieth Century Fox Home Entertainment
-335,31319,Ernest Lehman,Mike Nichols,Ernest Lehman,Warner Home Video
-336,41719,Ernest Lehman,Mike Nichols,Ernest Lehman,Warner Home Video
-337,31320,Walter Mirisch,Norman Jewison,"Stirling Silliphant, Sterling Silliphant",MGM
-338,32785,Walter Mirisch,Norman Jewison,"Stirling Silliphant, Sterling Silliphant",MGM
-339,41837,Walter Mirisch,Norman Jewison,"Stirling Silliphant, Sterling Silliphant",MGM
-340,31321,Warren Beatty,Arthur Penn,"David Newman, Robert Benton",Warner Brothers/Seven Arts
-341,32768,Warren Beatty,Arthur Penn,"David Newman, Robert Benton",Warner Brothers/Seven Arts
-342,41993,Warren Beatty,Arthur Penn,"David Newman, Robert Benton",Warner Brothers/Seven Arts
-343,31322,Arthur P. Jacobs,Richard Fleischer,Leslie Bricusse,20th Century Fox
-344,34943,Arthur P. Jacobs,Richard Fleischer,Leslie Bricusse,20th Century Fox
-345,31323,Lawrence Turman,Mike Nichols,"Calder Willingham, Buck Henry",Embassy Pictures/Rialto Pictures
-346,41718,Lawrence Turman,Mike Nichols,"Calder Willingham, Buck Henry",Embassy Pictures/Rialto Pictures
-347,31324,Stanley Kramer,Stanley Kramer,William Rose,Columbia Pictures Corporation
-348,41992,Stanley Kramer,Stanley Kramer,William Rose,Columbia Pictures Corporation
-349,31325,John Woolf,Carol Reed,"Vernon Harris, Lionel Bart, Vernon Gilbert Harris",Sony Pictures Home Entertainment
-350,32834,John Woolf,Carol Reed,"Vernon Harris, Lionel Bart, Vernon Gilbert Harris",Sony Pictures Home Entertainment
-351,31326,Ray Stark,William Wyler,"Isobel Lennart, Jule Styne, Bob Merrill",Columbia Pictures
-352,32820,Ray Stark,William Wyler,"Isobel Lennart, Jule Styne, Bob Merrill",Columbia Pictures
-353,31327,Martin Poll,Anthony Harvey,James Goldman,Nelson Entertainment
-354,41836,Martin Poll,Anthony Harvey,James Goldman,Nelson Entertainment
-355,31328,Paul Newman,Paul Newman,Stewart Stern,Warner Bros.
-356,31171,Anthony Havelock-Allan and John Brabourne,Franco Zeffirelli,"Franco Zeffirelli, Masolino D'Amico, Franco Brusati",Paramount Home Video
-357,31329,Anthony Havelock-Allan and John Brabourne,Franco Zeffirelli,"Franco Zeffirelli, Masolino D'Amico, Franco Brusati",Paramount Home Video
-358,31811,Anthony Havelock-Allan and John Brabourne,Franco Zeffirelli,"Franco Zeffirelli, Masolino D'Amico, Franco Brusati",Paramount Home Video
-359,32841,Anthony Havelock-Allan and John Brabourne,Franco Zeffirelli,"Franco Zeffirelli, Masolino D'Amico, Franco Brusati",Paramount Home Video
-360,31330,Jerome Hellman,John Schlesinger,Waldo Salt,United Artists
-361,32875,Jerome Hellman,John Schlesinger,Waldo Salt,United Artists
-362,41990,Jerome Hellman,John Schlesinger,Waldo Salt,United Artists
-363,31331,Hal B. Wallis,Charles Jarrott,"John Boland, Bridget Boland, John Hale, Richard Sokolove",Universal Pictures
-364,31332,John Foreman,George Roy Hill,"William Goldman, George Roy Hill",20th Century Fox
-365,32858,John Foreman,George Roy Hill,"William Goldman, George Roy Hill",20th Century Fox
-366,41715,John Foreman,George Roy Hill,"William Goldman, George Roy Hill",20th Century Fox
-367,31333,Ernest Lehman,Gene Kelly,Ernest Lehman,20th Century Fox
-368,32869,Ernest Lehman,Gene Kelly,Ernest Lehman,20th Century Fox
-369,897,Jacques Perrin and Ahmed Rachedi,Costa-Gavras,"Jorge Semprún, Costa-Gavras",Rialto Pictures
-370,13665,Jacques Perrin and Ahmed Rachedi,Costa-Gavras,"Jorge Semprún, Costa-Gavras",Rialto Pictures
-371,23143,Jacques Perrin and Ahmed Rachedi,Costa-Gavras,"Jorge Semprún, Costa-Gavras",Rialto Pictures
-372,31334,Jacques Perrin and Ahmed Rachedi,Costa-Gavras,"Jorge Semprún, Costa-Gavras",Rialto Pictures
-373,32891,Jacques Perrin and Ahmed Rachedi,Costa-Gavras,"Jorge Semprún, Costa-Gavras",Rialto Pictures
-374,31335,Frank McCarthy,Franklin J. Schaffner,"Francis Ford Coppola, Edmund H. North",Twentieth Century Fox Home Entertainment
-375,32920,Frank McCarthy,Franklin J. Schaffner,"Francis Ford Coppola, Edmund H. North",Twentieth Century Fox Home Entertainment
-376,41833,Frank McCarthy,Franklin J. Schaffner,"Francis Ford Coppola, Edmund H. North",Twentieth Century Fox Home Entertainment
-377,31336,Ross Hunter,"George Seaton, Henry Hathaway",George Seaton,Universal Pictures
-378,32893,Ross Hunter,"George Seaton, Henry Hathaway",George Seaton,Universal Pictures
-379,31337,Bob Rafelson and Richard Wechsler,"Bob Rafelson, Dennis Hopper","Adrien Joyce, Carole Eastman, Bob Rafelson",Columbia Pictures
-380,32908,Bob Rafelson and Richard Wechsler,"Bob Rafelson, Dennis Hopper","Adrien Joyce, Carole Eastman, Bob Rafelson",Columbia Pictures
-381,31338,Howard G. Minsky,Arthur Hiller,Erich Segal,Paramount Pictures
-382,32916,Howard G. Minsky,Arthur Hiller,Erich Segal,Paramount Pictures
-383,31339,Ingo Preminger,Robert Altman,Ring Lardner Jr.,20th Century Fox
-384,31340,Philip D'Antoni,William Friedkin,Ernest Tidyman,20th Century Fox
-385,42143,Philip D'Antoni,William Friedkin,Ernest Tidyman,20th Century Fox
-386,31341,Stanley Kubrick,Stanley Kubrick,Stanley Kubrick,Warner Bros.
-387,32938,Stanley Kubrick,Stanley Kubrick,Stanley Kubrick,Warner Bros.
-388,41405,Stanley Kubrick,Stanley Kubrick,Stanley Kubrick,Warner Bros.
-389,31342,Norman Jewison,Norman Jewison,Joseph Stein,United Artists
-390,41713,Norman Jewison,Norman Jewison,Joseph Stein,United Artists
-391,31343,Stephen J. Friedman,Peter Bogdanovich,"Peter Bogdanovich, Larry McMurtry",Columbia Pictures
-392,41712,Stephen J. Friedman,Peter Bogdanovich,"Peter Bogdanovich, Larry McMurtry",Columbia Pictures
-393,31344,Sam Spiegel,Franklin J. Schaffner,"James Goldman, Edward Bond",Sony Pictures Home Entertainment
-394,32978,Sam Spiegel,Franklin J. Schaffner,"James Goldman, Edward Bond",Sony Pictures Home Entertainment
-395,31345,Albert S. Ruddy,Francis Ford Coppola,"Francis Ford Coppola, Mario Puzo",Paramount Pictures
-396,41293,Albert S. Ruddy,Francis Ford Coppola,"Francis Ford Coppola, Mario Puzo",Paramount Pictures
-397,31346,Cy Feuer,Bob Fosse,"Jay Presson Allen, Hugh Wheeler",Twentieth Century Fox Home Entertainment
-398,33005,Cy Feuer,Bob Fosse,"Jay Presson Allen, Hugh Wheeler",Twentieth Century Fox Home Entertainment
-399,41988,Cy Feuer,Bob Fosse,"Jay Presson Allen, Hugh Wheeler",Twentieth Century Fox Home Entertainment
-400,31347,John Boorman,John Boorman,"James Dickey, Dale Dye",Warner Bros.
-401,33010,John Boorman,John Boorman,"James Dickey, Dale Dye",Warner Bros.
-402,42142,John Boorman,John Boorman,"James Dickey, Dale Dye",Warner Bros.
-403,31348,"Tony Bill, Michael Phillips, and Julia Phillips",George Roy Hill,"David S. Ward, Marvin Hamlisch",Universal Pictures
-404,41404,"Tony Bill, Michael Phillips, and Julia Phillips",George Roy Hill,"David S. Ward, Marvin Hamlisch",Universal Pictures
-405,31349,Francis Ford Coppola and Gary Kurtz,George Lucas,"George Lucas, Gloria Katz, Willard Huyck",Universal Pictures
-406,33050,Francis Ford Coppola and Gary Kurtz,George Lucas,"George Lucas, Gloria Katz, Willard Huyck",Universal Pictures
-407,31350,Ingmar Bergman,Ingmar Bergman,Ingmar Bergman,Criterion Collection
-408,116,William Peter Blatty,William Friedkin,William Peter Blatty,Warner Bros. Pictures
-409,31351,William Peter Blatty,William Friedkin,William Peter Blatty,Warner Bros. Pictures
-410,41710,William Peter Blatty,William Friedkin,William Peter Blatty,Warner Bros. Pictures
-411,31352,Melvin Frank,Melvin Frank,"Jack Rose, Melvin Frank",Media Home Entertainment
-412,33047,Melvin Frank,Melvin Frank,"Jack Rose, Melvin Frank",Media Home Entertainment
-413,31353,Robert Evans,Roman Polanski,Robert Towne,Paramount Pictures
-414,33113,Robert Evans,Roman Polanski,Robert Towne,Paramount Pictures
-415,41574,Robert Evans,Roman Polanski,Robert Towne,Paramount Pictures
-416,31354,Francis Ford Coppola,Francis Ford Coppola,Francis Ford Coppola,Paramount Pictures
-417,41984,Francis Ford Coppola,Francis Ford Coppola,Francis Ford Coppola,Paramount Pictures
-418,31355,Marvin Worth,Bob Fosse,Julian Barry,Twentieth Century Fox Home Entertainment
-419,31356,Irwin Allen,"John Guillermin, Irwin Allen","Sterling Silliphant, Stirling Silliphant",20th Century Fox
-420,31357,Michael Douglas and Saul Zaentz,Milos Forman,"Bo Goldman, Lawrence Hauben",United Artists
-421,41309,Michael Douglas and Saul Zaentz,Milos Forman,"Bo Goldman, Lawrence Hauben",United Artists
-422,31358,Stanley Kubrick,Stanley Kubrick,Stanley Kubrick,Warner Bros.
-423,33147,Stanley Kubrick,Stanley Kubrick,Stanley Kubrick,Warner Bros.
-424,41572,Stanley Kubrick,Stanley Kubrick,Stanley Kubrick,Warner Bros.
-425,31359,Martin Bregman and Martin Elfand,Sidney Lumet,"Frank Pierson, P.F. Kluge",WARNER BROTHERS PICTURES
-426,33155,Martin Bregman and Martin Elfand,Sidney Lumet,"Frank Pierson, P.F. Kluge",WARNER BROTHERS PICTURES
-427,41707,Martin Bregman and Martin Elfand,Sidney Lumet,"Frank Pierson, P.F. Kluge",WARNER BROTHERS PICTURES
-428,284,Richard D. Zanuck and David Brown,Steven Spielberg,"Howard Sackler, Carl Gottlieb, Peter Benchley",Universal Pictures
-429,16831,Richard D. Zanuck and David Brown,Steven Spielberg,"Howard Sackler, Carl Gottlieb, Peter Benchley",Universal Pictures
-430,31360,Richard D. Zanuck and David Brown,Steven Spielberg,"Howard Sackler, Carl Gottlieb, Peter Benchley",Universal Pictures
-431,33164,Richard D. Zanuck and David Brown,Steven Spielberg,"Howard Sackler, Carl Gottlieb, Peter Benchley",Universal Pictures
-432,41706,Richard D. Zanuck and David Brown,Steven Spielberg,"Howard Sackler, Carl Gottlieb, Peter Benchley",Universal Pictures
-433,31361,Robert Altman,Robert Altman,Joan Tewkesbury,Paramount Pictures
-434,33173,Robert Altman,Robert Altman,Joan Tewkesbury,Paramount Pictures
-435,31362,Irwin Winkler and Robert Chartoff,John G. Avildsen,Sylvester Stallone,United Artists
-436,33218,Irwin Winkler and Robert Chartoff,John G. Avildsen,Sylvester Stallone,United Artists
-437,41570,Irwin Winkler and Robert Chartoff,John G. Avildsen,Sylvester Stallone,United Artists
-438,31363,Walter Coblenz,Alan J. Pakula,William Goldman,Warner Home Video
-439,41827,Walter Coblenz,Alan J. Pakula,William Goldman,Warner Home Video
-440,31364,Howard Gottfried,Sidney Lumet,Paddy Chayefsky,MGM/United Artists
-441,33213,Howard Gottfried,Sidney Lumet,Paddy Chayefsky,MGM/United Artists
-442,41571,Howard Gottfried,Sidney Lumet,Paddy Chayefsky,MGM/United Artists
-443,31365,Michael Phillips and Julia Phillips,Martin Scorsese,Paul Schrader,Columbia Pictures
-444,33224,Michael Phillips and Julia Phillips,Martin Scorsese,Paul Schrader,Columbia Pictures
-445,41403,Michael Phillips and Julia Phillips,Martin Scorsese,Paul Schrader,Columbia Pictures
-446,31366,Charles H. Joffe,Woody Allen,"Woody Allen, Marshall Brickman",United Artists
-447,33236,Charles H. Joffe,Woody Allen,"Woody Allen, Marshall Brickman",United Artists
-448,41705,Charles H. Joffe,Woody Allen,"Woody Allen, Marshall Brickman",United Artists
-449,31367,Ray Stark,Herbert Ross,Neil Simon,MGM Home Entertainment
-450,31368,"Barry Spikings, Michael Deeley, Michael Cimino, and John Peverall",Michael Cimino,"Deric Washburn, Louis Garfinkle, Quinn K. Redeker",Universal Pictures
-451,41569,"Barry Spikings, Michael Deeley, Michael Cimino, and John Peverall",Michael Cimino,"Deric Washburn, Louis Garfinkle, Quinn K. Redeker",Universal Pictures
-452,31221,Warren Beatty,"Warren Beatty, Buck Henry","Elaine May, Warren Beatty",Paramount Home Video
-453,31369,Warren Beatty,"Warren Beatty, Buck Henry","Elaine May, Warren Beatty",Paramount Home Video
-454,31971,Warren Beatty,"Warren Beatty, Buck Henry","Elaine May, Warren Beatty",Paramount Home Video
-455,31370,Alan Marshall and David Puttnam,Alan Parker,Oliver Stone,Sony Pictures Home Entertainment
-456,33309,Alan Marshall and David Puttnam,Alan Parker,Oliver Stone,Sony Pictures Home Entertainment
-457,42278,Alan Marshall and David Puttnam,Alan Parker,Oliver Stone,Sony Pictures Home Entertainment
-458,31371,Stanley R. Jaffe,Robert Benton,Robert Benton,Sony Pictures Home Entertainment
-459,33338,Stanley R. Jaffe,Robert Benton,Robert Benton,Sony Pictures Home Entertainment
-460,41980,Stanley R. Jaffe,Robert Benton,Robert Benton,Sony Pictures Home Entertainment
-461,31372,"Francis Ford Coppola, Fred Roos, Gray Frederickson, and Tom Sternberg",Francis Ford Coppola,"John Milius, Francis Ford Coppola, Michael Herr",United Artists
-462,33325,"Francis Ford Coppola, Fred Roos, Gray Frederickson, and Tom Sternberg",Francis Ford Coppola,"John Milius, Francis Ford Coppola, Michael Herr",United Artists
-463,41366,"Francis Ford Coppola, Fred Roos, Gray Frederickson, and Tom Sternberg",Francis Ford Coppola,"John Milius, Francis Ford Coppola, Michael Herr",United Artists
-464,31373,Peter Yates,Peter Yates,Steve Tesich,Twentieth Century Fox
-465,31374,Ronald L. Schwary,Robert Redford,Alvin Sargent,Paramount Pictures
-466,33399,Ronald L. Schwary,Robert Redford,Alvin Sargent,Paramount Pictures
-467,42132,Ronald L. Schwary,Robert Redford,Alvin Sargent,Paramount Pictures
-468,31375,Bernard Schwartz,Michael Apted,"Tom Rickman, Thomas Rickman",MCA Universal Home Video
-469,31376,Jonathan Sanger,David Lynch,"Eric Bergren, Christopher De Vore, David Lynch",Paramount
-470,41567,Jonathan Sanger,David Lynch,"Eric Bergren, Christopher De Vore, David Lynch",Paramount
-471,31377,Irwin Winkler and Robert Chartoff,Martin Scorsese,"Paul Schrader, Mardik Martin, Martin Scorsese",United Artists
-472,33404,Irwin Winkler and Robert Chartoff,Martin Scorsese,"Paul Schrader, Mardik Martin, Martin Scorsese",United Artists
-473,41464,Irwin Winkler and Robert Chartoff,Martin Scorsese,"Paul Schrader, Mardik Martin, Martin Scorsese",United Artists
-474,31378,Claude Berri and Timothy Burrill,Roman Polanski,"Gérard Brach, Roman Polanski, John Brownjohn",Criterion Collection
-475,31379,David Puttnam,Hugh Hudson,Colin Welland,20th Century Fox
-476,33417,David Puttnam,Hugh Hudson,Colin Welland,20th Century Fox
-477,31380,Denis Héroux,Louis Malle,John Guare,Paramount Home Video
-478,33369,Denis Héroux,Louis Malle,John Guare,Paramount Home Video
-479,31381,Bruce Gilbert,Mark Rydell,Ernest Thompson,Twentieth Century Fox Home Entertainment
-480,42272,Bruce Gilbert,Mark Rydell,Ernest Thompson,Twentieth Century Fox Home Entertainment
-481,31382,Frank Marshall,Steven Spielberg,Lawrence Kasdan,Paramount Pictures
-482,33461,Frank Marshall,Steven Spielberg,Lawrence Kasdan,Paramount Pictures
-483,41364,Frank Marshall,Steven Spielberg,Lawrence Kasdan,Paramount Pictures
-484,31383,Richard Attenborough,Richard Attenborough,"John Briley, Robert Bolt",Columbia Pictures
-485,33500,Richard Attenborough,Richard Attenborough,"John Briley, Robert Bolt",Columbia Pictures
-486,41702,Richard Attenborough,Richard Attenborough,"John Briley, Robert Bolt",Columbia Pictures
-487,31384,Sydney Pollack and Dick Richards,Sydney Pollack,"Larry Gelbart, Murray Schisgal, Sydney Pollack",Columbia Pictures
-488,33533,Sydney Pollack and Dick Richards,Sydney Pollack,"Larry Gelbart, Murray Schisgal, Sydney Pollack",Columbia Pictures
-489,31385,Richard D. Zanuck and David Brown,Sidney Lumet,David Mamet,Twentieth Century Fox Home Entertainment
-490,42129,Richard D. Zanuck and David Brown,Sidney Lumet,David Mamet,Twentieth Century Fox Home Entertainment
-491,31386,James L. Brooks,James L. Brooks,James L. Brooks,Paramount Pictures
-492,33578,James L. Brooks,James L. Brooks,James L. Brooks,Paramount Pictures
-493,31387,Michael Shamberg,Lawrence Kasdan,"Barbara Benedek, Lawrence Kasdan",Columbia Pictures
-494,31388,Peter Yates,Peter Yates,"Ronald Harwood, Peter Yates",Sony Pictures Entertainment
-495,31389,Philip S. Hobel,Bruce Beresford,Horton Foote,HBO Video
-496,31390,Saul Zaentz,Milos Forman,Peter Shaffer,Warner Bros. Pictures
-497,33594,Saul Zaentz,Milos Forman,Peter Shaffer,Warner Bros. Pictures
-498,41399,Saul Zaentz,Milos Forman,Peter Shaffer,Warner Bros. Pictures
-499,31391,David Puttnam,Roland Joffé,Bruce Robinson,Warner Home Video
-500,41975,David Puttnam,Roland Joffé,Bruce Robinson,Warner Home Video
-501,31392,John Brabourne and Richard B. Goodwin,David Lean,"Santha Rama Rau, David Lean",Sony Pictures Entertainment
-502,33588,John Brabourne and Richard B. Goodwin,David Lean,"Santha Rama Rau, David Lean",Sony Pictures Entertainment
-503,31393,Arlene Donovan,Robert Benton,Robert Benton,Twentieth Century Fox Home Entertainment
-504,31394,"Norman Jewison, Ronald L. Schwary, and Patrick Palmer",Norman Jewison,Charles Fuller,Sony Pictures Home Entertainment
-505,31395,Sydney Pollack,Sydney Pollack,"Kurt Luedtke, Kurt Luedtke",Universal Pictures
-506,33713,Sydney Pollack,Sydney Pollack,"Kurt Luedtke, Kurt Luedtke",Universal Pictures
-507,31396,"Steven Spielberg, Kathleen Kennedy, Frank Marshall, and Quincy Jones",Steven Spielberg,Menno Meyjes,Warner Home Video
-508,41973,"Steven Spielberg, Kathleen Kennedy, Frank Marshall, and Quincy Jones",Steven Spielberg,Menno Meyjes,Warner Home Video
-509,31397,David Weisman,Hector Babenco,Leonard Schrader,Strand Releasing
-510,33698,David Weisman,Hector Babenco,Leonard Schrader,Strand Releasing
-511,31398,Edward S. Feldman,Peter Weir,"William Kelley, Earl W. Wallace",Paramount Pictures
-512,33741,Edward S. Feldman,Peter Weir,"William Kelley, Earl W. Wallace",Paramount Pictures
-513,31399,Arnold Kopelson,Oliver Stone,"Oliver Stone, Richard Boyle",Orion Pictures
-514,33800,Arnold Kopelson,Oliver Stone,"Oliver Stone, Richard Boyle",Orion Pictures
-515,41559,Arnold Kopelson,Oliver Stone,"Oliver Stone, Richard Boyle",Orion Pictures
-516,31400,Burt Sugarman and Patrick J. Palmer,Randa Haines,"Mark Medoff, Hesper Anderson, Lloyd Fonvielle",Paramount Pictures
-517,33756,Burt Sugarman and Patrick J. Palmer,Randa Haines,"Mark Medoff, Hesper Anderson, Lloyd Fonvielle",Paramount Pictures
-518,31401,Robert Greenhut,Woody Allen,Woody Allen,Orion Pictures
-519,33775,Robert Greenhut,Woody Allen,Woody Allen,Orion Pictures
-520,41819,Robert Greenhut,Woody Allen,Woody Allen,Orion Pictures
-521,31402,Fernando Ghia and David Puttnam,Roland Joffé,Robert Bolt,Warner Home Video
-522,31403,Jeremy Thomas,Bernardo Bertolucci,Mark Peploe,Columbia Pictures
-523,42122,Jeremy Thomas,Bernardo Bertolucci,Mark Peploe,Columbia Pictures
-524,31404,James L. Brooks,"James L. Brooks, James A. Brooks",James L. Brooks,Twentieth Century Fox Home Entertainment
-525,33834,James L. Brooks,"James L. Brooks, James A. Brooks",James L. Brooks,Twentieth Century Fox Home Entertainment
-526,31405,Stanley R. Jaffe and Sherry Lansing,Adrian Lyne,"James Dearden, Nicholas Meyer",Paramount Pictures
-527,33847,Stanley R. Jaffe and Sherry Lansing,Adrian Lyne,"James Dearden, Nicholas Meyer",Paramount Pictures
-528,31406,Patrick J. Palmer and Norman Jewison,Norman Jewison,"John Patrick Shanley, Norman Jewison",MGM Home Entertainment
-529,33870,Patrick J. Palmer and Norman Jewison,Norman Jewison,"John Patrick Shanley, Norman Jewison",MGM Home Entertainment
-530,31407,Mark Johnson,Barry Levinson,"Ronald Bass, Barry Morrow, Barry Levinson, David Rayfiel",MGM
-531,33962,Mark Johnson,Barry Levinson,"Ronald Bass, Barry Morrow, Barry Levinson, David Rayfiel",MGM
-532,41695,Mark Johnson,Barry Levinson,"Ronald Bass, Barry Morrow, Barry Levinson, David Rayfiel",MGM
-533,31408,"Lawrence Kasdan, Charles Okun, and Michael Grillo",Lawrence Kasdan,"Anne Tyler, Frank Galati, Lawrence Kasdan",Warner Home Video
-534,31409,Norma Heyman and Hank Moonjean,Stephen Frears,Christopher Hampton,Warner Home Video
-535,33927,Norma Heyman and Hank Moonjean,Stephen Frears,Christopher Hampton,Warner Home Video
-536,31410,Frederick Zollo and Robert F. Colesberry,Alan Parker,"Chris Gerolmo, Chris Geroimo, Alan Parker",Orion Pictures Corporation
-537,41967,Frederick Zollo and Robert F. Colesberry,Alan Parker,"Chris Gerolmo, Chris Geroimo, Alan Parker",Orion Pictures Corporation
-538,31411,Douglas Wick,Mike Nichols,Kevin Wade,20th Century Fox
-539,33985,Douglas Wick,Mike Nichols,Kevin Wade,20th Century Fox
-540,31412,A. Kitman Ho and Oliver Stone,Oliver Stone,"Oliver Stone, Ron Kovic, Dave Freeman",Universal Pictures
-541,33997,A. Kitman Ho and Oliver Stone,Oliver Stone,"Oliver Stone, Ron Kovic, Dave Freeman",Universal Pictures
-542,31413,"Steven Haft, Paul Junger Witt, and Tony Thomas",Peter Weir,Tom Schulman,Buena Vista Pictures
-543,34004,"Steven Haft, Paul Junger Witt, and Tony Thomas",Peter Weir,Tom Schulman,Buena Vista Pictures
-544,41557,"Steven Haft, Paul Junger Witt, and Tony Thomas",Peter Weir,Tom Schulman,Buena Vista Pictures
-545,31414,Lawrence Gordon and Charles Gordon,Phil Alden Robinson,Phil Alden Robinson,Universal Pictures
-546,34012,Lawrence Gordon and Charles Gordon,Phil Alden Robinson,Phil Alden Robinson,Universal Pictures
-547,31415,Noel Pearson,Jim Sheridan,"Shane Connaughton, Jim Sheridan",Miramax Films
-548,34037,Noel Pearson,Jim Sheridan,"Shane Connaughton, Jim Sheridan",Miramax Films
-549,20697,Walter Parkes and Lawrence Lasker,Penny Marshall,"Steven Zaillian, Paul W. Shapiro",Columbia Pictures
-550,31416,Walter Parkes and Lawrence Lasker,Penny Marshall,"Steven Zaillian, Paul W. Shapiro",Columbia Pictures
-551,41962,Walter Parkes and Lawrence Lasker,Penny Marshall,"Steven Zaillian, Paul W. Shapiro",Columbia Pictures
-552,13926,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-553,15082,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-554,16231,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-555,21141,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-556,22393,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-557,26859,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-558,27650,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-559,31417,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-560,34093,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
-561,31418,"Edward Saxon, Kenneth Utt, and Ron Bozman",Jonathan Demme,Ted Tally,Orion Pictures Corporation
-562,41320,"Edward Saxon, Kenneth Utt, and Ron Bozman",Jonathan Demme,Ted Tally,Orion Pictures Corporation
-563,4719,Don Hahn,Gary Trousdale,,Buena Vista
-564,8750,Don Hahn,Gary Trousdale,,Buena Vista
-565,31419,Don Hahn,Gary Trousdale,,Buena Vista
-566,32035,Don Hahn,Gary Trousdale,,Buena Vista
-567,34155,Don Hahn,Gary Trousdale,,Buena Vista
-568,39887,Don Hahn,Gary Trousdale,,Buena Vista
-569,41692,Don Hahn,Gary Trousdale,,Buena Vista
-570,31420,"Mark Johnson, Barry Levinson and Warren Beatty",Barry Levinson,James Toback,Sony Pictures Home Entertainment
-571,31421,A. Kitman Ho and Oliver Stone,Oliver Stone,"Oliver Stone, Zachary Sklar",Warner Bros.
-572,34193,A. Kitman Ho and Oliver Stone,Oliver Stone,"Oliver Stone, Zachary Sklar",Warner Bros.
-573,41691,A. Kitman Ho and Oliver Stone,Oliver Stone,"Oliver Stone, Zachary Sklar",Warner Bros.
-574,31422,Barbra Streisand and Andrew S. Karsch,Barbra Streisand,"Pat Conroy, Becky Johnston, Jay Presson Allen",Sony Pictures Home Entertainment
-575,31423,Clint Eastwood,Clint Eastwood,"Clint Eastwood, David Webb Peoples",Warner Bros. Pictures
-576,34325,Clint Eastwood,Clint Eastwood,"Clint Eastwood, David Webb Peoples",Warner Bros. Pictures
-577,41458,Clint Eastwood,Clint Eastwood,"Clint Eastwood, David Webb Peoples",Warner Bros. Pictures
-578,31424,Stephen Woolley,Neil Jordan,Neil Jordan,Live Home Video
-579,31425,"David Brown, Rob Reiner, and Andrew Scheinman",Rob Reiner,"Aaron Sorkin, Rob Reiner",Columbia Pictures
-580,34242,"David Brown, Rob Reiner, and Andrew Scheinman",Rob Reiner,"Aaron Sorkin, Rob Reiner",Columbia Pictures
-581,42115,"David Brown, Rob Reiner, and Andrew Scheinman",Rob Reiner,"Aaron Sorkin, Rob Reiner",Columbia Pictures
-582,31426,Ismail Merchant,James Ivory,Ruth Prawer Jhabvala,Sony Pictures Home Entertainment
-583,34286,Ismail Merchant,James Ivory,Ruth Prawer Jhabvala,Sony Pictures Home Entertainment
-584,31427,Martin Brest,Martin Brest,Bo Goldman,Universal Pictures
-585,34309,Martin Brest,Martin Brest,Bo Goldman,Universal Pictures
-586,41689,Martin Brest,Martin Brest,Bo Goldman,Universal Pictures
-587,31428,"Steven Spielberg, Gerald R. Molen, and Branko Lustig",Steven Spielberg,Steven Zaillian,Universal Pictures
-588,41299,"Steven Spielberg, Gerald R. Molen, and Branko Lustig",Steven Spielberg,Steven Zaillian,Universal Pictures
-589,31429,Arnold Kopelson,Andrew Davis,"Jeb Stuart, Andrew Davis, Roy Huggins, David Twohy, David Newman, Walter Hill, David Giler, Robert Mark Kamen",Warner Bros. Pictures
-590,41954,Arnold Kopelson,Andrew Davis,"Jeb Stuart, Andrew Davis, Roy Huggins, David Twohy, David Newman, Walter Hill, David Giler, Robert Mark Kamen",Warner Bros. Pictures
-591,31430,Jim Sheridan,Jim Sheridan,"Terry George, Jim Sheridan",Universal Pictures
-592,34377,Jim Sheridan,Jim Sheridan,"Terry George, Jim Sheridan",Universal Pictures
-593,41554,Jim Sheridan,Jim Sheridan,"Terry George, Jim Sheridan",Universal Pictures
-594,31431,Jan Chapman,Jane Campion,Jane Campion,Miramax Films
-595,31432,"Mike Nichols, John Calley, and Ismail Merchant",James Ivory,Ruth Prawer Jhabvala,Sony Pictures Home Entertainment
-596,41952,"Mike Nichols, John Calley, and Ismail Merchant",James Ivory,Ruth Prawer Jhabvala,Sony Pictures Home Entertainment
-597,31433,"Wendy Finerman, Steve Tisch, and Steve Starkey",Robert Zemeckis,Eric Roth,Paramount Pictures
-598,34469,"Wendy Finerman, Steve Tisch, and Steve Starkey",Robert Zemeckis,Eric Roth,Paramount Pictures
-599,41303,"Wendy Finerman, Steve Tisch, and Steve Starkey",Robert Zemeckis,Eric Roth,Paramount Pictures
-600,31434,Duncan Kenworthy,Mike Newell,"Richard Curtis, Mike Newell",Gramercy Pictures
-601,34470,Duncan Kenworthy,Mike Newell,"Richard Curtis, Mike Newell",Gramercy Pictures
-602,31435,Lawrence Bender,Quentin Tarantino,"Quentin Tarantino, Roger Avary",Miramax Films
-603,34512,Lawrence Bender,Quentin Tarantino,"Quentin Tarantino, Roger Avary",Miramax Films
-604,41298,Lawrence Bender,Quentin Tarantino,"Quentin Tarantino, Roger Avary",Miramax Films
-605,31436,"Michael Jacobs, Julian Krainin, Michael Nozik, and Robert Redford",Robert Redford,Paul Attanasio,Buena Vista Internationa
-606,34513,"Michael Jacobs, Julian Krainin, Michael Nozik, and Robert Redford",Robert Redford,Paul Attanasio,Buena Vista Internationa
-607,31437,Niki Marvin,Frank Darabont,Frank Darabont,Columbia Pictures
-608,41292,Niki Marvin,Frank Darabont,Frank Darabont,Columbia Pictures
-609,31438,"Mel Gibson, Alan Ladd Jr., and Bruce Davey",Mel Gibson,Randall Wallace,Paramount Pictures
-610,34562,"Mel Gibson, Alan Ladd Jr., and Bruce Davey",Mel Gibson,Randall Wallace,Paramount Pictures
-611,41394,"Mel Gibson, Alan Ladd Jr., and Bruce Davey",Mel Gibson,Randall Wallace,Paramount Pictures
-612,31439,Brian Grazer,Ron Howard,"Al Reinert, William Broyles",Universal Pictures
-613,34551,Brian Grazer,Ron Howard,"Al Reinert, William Broyles",Universal Pictures
-614,42257,Brian Grazer,Ron Howard,"Al Reinert, William Broyles",Universal Pictures
-615,30348,"Bill Miller, George Miller, and Doug Mitchell",Chris Noonan,Chris Noonan,Universal Pictures
-616,31440,"Bill Miller, George Miller, and Doug Mitchell",Chris Noonan,Chris Noonan,Universal Pictures
-617,34553,"Bill Miller, George Miller, and Doug Mitchell",Chris Noonan,Chris Noonan,Universal Pictures
-618,31441,Saul Zaentz,Anthony Minghella,Anthony Minghella,Miramax Films
-619,31442,Ethan Coen,"Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",Gramercy Pictures
-620,34704,Ethan Coen,"Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",Gramercy Pictures
-621,41546,Ethan Coen,"Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",Gramercy Pictures
-622,26995,Jane Scott,Scott Hicks,"Jan Sardi, Scott Hicks",New Line Home Entertainment
-623,31443,Jane Scott,Scott Hicks,"Jan Sardi, Scott Hicks",New Line Home Entertainment
-624,42101,Jane Scott,Scott Hicks,"Jan Sardi, Scott Hicks",New Line Home Entertainment
-625,31444,James Cameron and Jon Landau,James Cameron,James Cameron,Paramount Pictures
-626,34904,James Cameron and Jon Landau,James Cameron,James Cameron,Paramount Pictures
-627,41943,James Cameron and Jon Landau,James Cameron,James Cameron,Paramount Pictures
-628,31445,"James L. Brooks, Bridget Johnson, and Kristi Zea",James L. Brooks,"Mark Andrus, James L. Brooks",TriStar Pictures
-629,34805,"James L. Brooks, Bridget Johnson, and Kristi Zea",James L. Brooks,"Mark Andrus, James L. Brooks",TriStar Pictures
-630,42097,"James L. Brooks, Bridget Johnson, and Kristi Zea",James L. Brooks,"Mark Andrus, James L. Brooks",TriStar Pictures
-631,31446,Uberto Pasolini,Peter Cattaneo,"Simon Beaufoy, Simon Beaufor",Twentieth Century Fox Home Entertainment
-632,31447,Lawrence Bender,Gus Van Sant,"Ben Affleck, Matt Damon, Gus Van Sant",Miramax Films
-633,34848,Lawrence Bender,Gus Van Sant,"Ben Affleck, Matt Damon, Gus Van Sant",Miramax Films
-634,41391,Lawrence Bender,Gus Van Sant,"Ben Affleck, Matt Damon, Gus Van Sant",Miramax Films
-635,31448,"Curtis Hanson, Arnon Milchan, and Michael Nathanson",Curtis Hanson,"Curtis Hanson, Brian Helgeland",Warner Bros. Pictures
-636,34865,"Curtis Hanson, Arnon Milchan, and Michael Nathanson",Curtis Hanson,"Curtis Hanson, Brian Helgeland",Warner Bros. Pictures
-637,41453,"Curtis Hanson, Arnon Milchan, and Michael Nathanson",Curtis Hanson,"Curtis Hanson, Brian Helgeland",Warner Bros. Pictures
-638,31449,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick, and Marc Norman",John Madden (II),"Marc Norman, Tom Stoppard",Miramax
-639,35015,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick, and Marc Norman",John Madden (II),"Marc Norman, Tom Stoppard",Miramax
-640,31450,"Alison Owen, Eric Fellner and Tim Bevan",Shekhar Kapur,Michael Hirst,Gramercy
-641,34945,"Alison Owen, Eric Fellner and Tim Bevan",Shekhar Kapur,Michael Hirst,Gramercy
-642,31451,"Steven Spielberg, Ian Bryce, Mark Gordon, and Gary Levinsohn",Steven Spielberg,"Scott Frank, Robert Rodat, Frank Darabont",Dreamworks Distribution
-643,35014,"Steven Spielberg, Ian Bryce, Mark Gordon, and Gary Levinsohn",Steven Spielberg,"Scott Frank, Robert Rodat, Frank Darabont",Dreamworks Distribution
-644,41316,"Steven Spielberg, Ian Bryce, Mark Gordon, and Gary Levinsohn",Steven Spielberg,"Scott Frank, Robert Rodat, Frank Darabont",Dreamworks Distribution
-645,31452,"Robert Michael Geisler, John Roberdeau, and Grant Hill",Terrence Malick,Terrence Malick,20th Century Fox
-646,42246,"Robert Michael Geisler, John Roberdeau, and Grant Hill",Terrence Malick,Terrence Malick,20th Century Fox
-647,31453,Bruce Cohen and Dan Jinks,Sam Mendes,Alan Ball,Dreamworks
-648,35060,Bruce Cohen and Dan Jinks,Sam Mendes,Alan Ball,Dreamworks
-649,41390,Bruce Cohen and Dan Jinks,Sam Mendes,Alan Ball,Dreamworks
-650,31454,Richard N. Gladstein,Lasse Hallstrom,John Irving,Miramax
-651,31455,Frank Darabont and David Valdes,Frank Darabont,Frank Darabont,Warner Bros. Pictures
-652,41317,Frank Darabont and David Valdes,Frank Darabont,Frank Darabont,Warner Bros. Pictures
-653,31456,Pieter Jan Brugge and Michael Mann,Michael Mann,"Eric Roth, Michael Mann",Buena Vista Pictures
-654,41940,Pieter Jan Brugge and Michael Mann,Michael Mann,"Eric Roth, Michael Mann",Buena Vista Pictures
-655,31457,"Frank Marshall, Kathleen Kennedy, and Barry Mendel",M. Night Shyamalan,M. Night Shyamalan,Hollywood/Buena Vista
-656,41539,"Frank Marshall, Kathleen Kennedy, and Barry Mendel",M. Night Shyamalan,M. Night Shyamalan,Hollywood/Buena Vista
-657,31458,"Douglas Wick, David Franzoni, and Branko Lustig",Ridley Scott,"David H. Franzoni, William Nicholson, John Logan",Dreamworks Distribution LLC
-658,35243,"Douglas Wick, David Franzoni, and Branko Lustig",Ridley Scott,"David H. Franzoni, William Nicholson, John Logan",Dreamworks Distribution LLC
-659,41331,"Douglas Wick, David Franzoni, and Branko Lustig",Ridley Scott,"David H. Franzoni, William Nicholson, John Logan",Dreamworks Distribution LLC
-660,31459,"David Brown, Kit Golden, and Leslie Holleran",Lasse Hallstrom,Robert Nelson Jacobs,Miramax
-661,33921,"David Brown, Kit Golden, and Leslie Holleran",Lasse Hallstrom,Robert Nelson Jacobs,Miramax
-662,35219,"David Brown, Kit Golden, and Leslie Holleran",Lasse Hallstrom,Robert Nelson Jacobs,Miramax
-663,31460,"Danny DeVito, Michael Shamberg, and Stacey Sher",Steven Soderbergh,"Richard LaGravenese, Steven Soderbergh, Susannah Grant",Universal Pictures
-664,35234,"Danny DeVito, Michael Shamberg, and Stacey Sher",Steven Soderbergh,"Richard LaGravenese, Steven Soderbergh, Susannah Grant",Universal Pictures
-665,31461,"Edward Zwick, Marshall Herskovitz, and Laura Bickford",Steven Soderbergh,Stephen Gaghan,USA Films
-666,35320,"Edward Zwick, Marshall Herskovitz, and Laura Bickford",Steven Soderbergh,Stephen Gaghan,USA Films
-667,31462,Brian Grazer and Ron Howard,Ron Howard,Akiva Goldsman,Universal Pictures
-668,35336,Brian Grazer and Ron Howard,Ron Howard,Akiva Goldsman,Universal Pictures
-669,41450,Brian Grazer and Ron Howard,Ron Howard,Akiva Goldsman,Universal Pictures
-670,31463,"Robert Altman, Bob Balaban, and David Levy",Robert Altman,"Julian Fellowes, James Fellowes",USA Films
-671,35386,"Robert Altman, Bob Balaban, and David Levy",Robert Altman,"Julian Fellowes, James Fellowes",USA Films
-672,31464,"Graham Leader, Ross Katz, and Todd Field",Todd Field,"Rob Festinger, Todd Field",Miramax Films
-673,35403,"Graham Leader, Ross Katz, and Todd Field",Todd Field,"Rob Festinger, Todd Field",Miramax Films
-674,31465,"Peter Jackson, Fran Walsh, and Barrie M. Osborne",Peter Jackson,"Fran Walsh, Peter Jackson, Philippa Boyens",New Line Cinema
-675,41302,"Peter Jackson, Fran Walsh, and Barrie M. Osborne",Peter Jackson,"Fran Walsh, Peter Jackson, Philippa Boyens",New Line Cinema
-676,31466,"Martin Brown, Baz Luhrmann, and Fred Baron",Baz Luhrmann,"Baz Luhrmann, Craig Pearce",20th Century Fox
-677,35447,"Martin Brown, Baz Luhrmann, and Fred Baron",Baz Luhrmann,"Baz Luhrmann, Craig Pearce",20th Century Fox
-678,31467,Martin Richards,Rob Marshall,Bill Condon,Miramax Films
-679,35554,Martin Richards,Rob Marshall,Bill Condon,Miramax Films
-680,31468,Alberto Grimaldi and Harvey Weinstein,Martin Scorsese,"Jay Cocks, Steven Zaillian, Kenneth Lonergan",Miramax Films
-681,35583,Alberto Grimaldi and Harvey Weinstein,Martin Scorsese,"Jay Cocks, Steven Zaillian, Kenneth Lonergan",Miramax Films
-682,31469,Scott Rudin and Robert Fox,Stephen Daldry,David Hare,Miramax Films
-683,31470,"Barrie M. Osborne, Fran Walsh, and Peter Jackson",Peter Jackson,"Philippa Boyens, Stephen Sinclair, Fran Walsh",New Line Cinema
-684,41305,"Barrie M. Osborne, Fran Walsh, and Peter Jackson",Peter Jackson,"Philippa Boyens, Stephen Sinclair, Fran Walsh",New Line Cinema
-685,31471,"Roman Polanski, Robert Benmussa, and Alain Sarde",Roman Polanski,Ronald Harwood,Focus Features
-686,41330,"Roman Polanski, Robert Benmussa, and Alain Sarde",Roman Polanski,Ronald Harwood,Focus Features
-687,31472,"Barrie M. Osborne, Peter Jackson, and Fran Walsh",Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson",New Line Cinema
-688,41297,"Barrie M. Osborne, Peter Jackson, and Fran Walsh",Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson",New Line Cinema
-689,31473,"Samuel Goldwyn Jr., Peter Weir, and Duncan Henderson",Peter Weir,"Peter Weir, John Collee",20th Century Fox
-690,35799,"Samuel Goldwyn Jr., Peter Weir, and Duncan Henderson",Peter Weir,"Peter Weir, John Collee",20th Century Fox
-691,31474,"Robert Lorenz, Judie G. Hoyt, and Clint Eastwood",Clint Eastwood,Brian Helgeland,WB
-692,35811,"Robert Lorenz, Judie G. Hoyt, and Clint Eastwood",Clint Eastwood,Brian Helgeland,WB
-693,41796,"Robert Lorenz, Judie G. Hoyt, and Clint Eastwood",Clint Eastwood,Brian Helgeland,WB
-694,31475,"Kathleen Kennedy, Frank Marshall, and Gary Ross",Gary Ross,Gary Ross,Universal Pictures
-695,31476,"Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg",Clint Eastwood,"Clint Eastwood, Paul Haggis",Warner Bros. Pictures
-696,35982,"Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg",Clint Eastwood,"Clint Eastwood, Paul Haggis",Warner Bros. Pictures
-697,41525,"Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg",Clint Eastwood,"Clint Eastwood, Paul Haggis",Warner Bros. Pictures
-698,31477,Michael Mann and Graham King,Martin Scorsese,John Logan,Miramax
-699,31478,Richard N. Gladstein and Nellie Bellflower,Marc Forster,"David Magee, Marc Forster",Miramax Films
-700,35934,Richard N. Gladstein and Nellie Bellflower,Marc Forster,"David Magee, Marc Forster",Miramax Films
-701,42231,Richard N. Gladstein and Nellie Bellflower,Marc Forster,"David Magee, Marc Forster",Miramax Films
-702,31479,"Taylor Hackford, Stuart Benjamin, and Howard Baldwin",Taylor Hackford,"James L. White, Taylor Hackford, Jimmy ""Whirlwind"" White",Universal Pictures
-703,36014,"Taylor Hackford, Stuart Benjamin, and Howard Baldwin",Taylor Hackford,"James L. White, Taylor Hackford, Jimmy ""Whirlwind"" White",Universal Pictures
-704,42070,"Taylor Hackford, Stuart Benjamin, and Howard Baldwin",Taylor Hackford,"James L. White, Taylor Hackford, Jimmy ""Whirlwind"" White",Universal Pictures
-705,31480,Michael London,Alexander Payne,"Alexander Payne, Jim Taylor (III)",Fox Searchlight Pictures
-706,36031,Michael London,Alexander Payne,"Alexander Payne, Jim Taylor (III)",Fox Searchlight Pictures
-707,31481,Paul Haggis and Cathy Schulman,Paul Haggis,"Bobby Moresco, Paul Haggis",Lions Gate Films
-708,34689,Paul Haggis and Cathy Schulman,Paul Haggis,"Bobby Moresco, Paul Haggis",Lions Gate Films
-709,35911,Paul Haggis and Cathy Schulman,Paul Haggis,"Bobby Moresco, Paul Haggis",Lions Gate Films
-710,42066,Paul Haggis and Cathy Schulman,Paul Haggis,"Bobby Moresco, Paul Haggis",Lions Gate Films
-711,31482,Diana Ossana and James Schamus,Ang Lee,"Larry McMurtry, Diana Ossana, Ang Lee",Focus Features
-712,36096,Diana Ossana and James Schamus,Ang Lee,"Larry McMurtry, Diana Ossana, Ang Lee",Focus Features
-713,42064,Diana Ossana and James Schamus,Ang Lee,"Larry McMurtry, Diana Ossana, Ang Lee",Focus Features
-714,31483,"Caroline Baron, William Vince, and Michael Ohoven",Bennett Miller,Dan Futterman,Sony Pictures Classics
-715,36100,"Caroline Baron, William Vince, and Michael Ohoven",Bennett Miller,Dan Futterman,Sony Pictures Classics
-716,31484,"Steven Spielberg, Kathleen Kennedy, and Barry Mendel",Steven Spielberg,"Tony Kushner, Eric Roth",Universal Pictures
-717,36198,"Steven Spielberg, Kathleen Kennedy, and Barry Mendel",Steven Spielberg,"Tony Kushner, Eric Roth",Universal Pictures
-718,31485,Graham King,Martin Scorsese,"William Monahan, Martin Scorsese",Warner Bros. Pictures
-719,41329,Graham King,Martin Scorsese,"William Monahan, Martin Scorsese",Warner Bros. Pictures
-720,31486,"Alejandro González Iñárritu, Steve Golin, and Jon Kilik",Alejandro González Iñárritu,"Guillermo Arriaga Jordan, Guillermo Arriaga",Paramount Classics
-721,36301,"Alejandro González Iñárritu, Steve Golin, and Jon Kilik",Alejandro González Iñárritu,"Guillermo Arriaga Jordan, Guillermo Arriaga",Paramount Classics
-722,31487,"Clint Eastwood, Steven Spielberg, and Robert Lorenz",Clint Eastwood,Iris Yamashita,Warner Bros. Pictures
-723,36408,"Clint Eastwood, Steven Spielberg, and Robert Lorenz",Clint Eastwood,Iris Yamashita,Warner Bros. Pictures
-724,41787,"Clint Eastwood, Steven Spielberg, and Robert Lorenz",Clint Eastwood,Iris Yamashita,Warner Bros. Pictures
-725,31488,"David T. Friendly, Peter Saraf, and Marc Turtletaub","Jonathan Dayton, Valerie Faris","Michael Arndt, Jonathan Dayton",Fox Searchlight
-726,36411,"David T. Friendly, Peter Saraf, and Marc Turtletaub","Jonathan Dayton, Valerie Faris","Michael Arndt, Jonathan Dayton",Fox Searchlight
-727,41917,"David T. Friendly, Peter Saraf, and Marc Turtletaub","Jonathan Dayton, Valerie Faris","Michael Arndt, Jonathan Dayton",Fox Searchlight
-728,31489,"Andy Harries, Christine Langan, and Tracey Seaward",Stephen Frears,Peter Morgan,Miramax Films
-729,31490,"Scott Rudin, Joel Coen, and Ethan Coen","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Miramax Films
-730,36689,"Scott Rudin, Joel Coen, and Ethan Coen","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Miramax Films
-731,41523,"Scott Rudin, Joel Coen, and Ethan Coen","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Miramax Films
-732,31491,"Tim Bevan, Eric Fellner, and Paul Webster",Joe Wright,"Ian McEwan, Christopher Hampton",Focus Features
-733,36546,"Tim Bevan, Eric Fellner, and Paul Webster",Joe Wright,"Ian McEwan, Christopher Hampton",Focus Features
-734,41911,"Tim Bevan, Eric Fellner, and Paul Webster",Joe Wright,"Ian McEwan, Christopher Hampton",Focus Features
-735,31492,"Lianne Halfon, Mason Novick, and Russell Smith",Jason Reitman,Diablo Cody,Fox Searchlight
-736,36649,"Lianne Halfon, Mason Novick, and Russell Smith",Jason Reitman,Diablo Cody,Fox Searchlight
-737,31493,"Jennifer Fox, Kerry Orent, and Sydney Pollack",Tony Gilroy,Tony Gilroy,Warner Bros. Pictures
-738,36676,"Jennifer Fox, Kerry Orent, and Sydney Pollack",Tony Gilroy,Tony Gilroy,Warner Bros. Pictures
-739,31494,"Paul Thomas Anderson, Daniel Lupi, and JoAnne Sellar",Paul Thomas Anderson,Paul Thomas Anderson,Paramount Vantage
-740,36748,"Paul Thomas Anderson, Daniel Lupi, and JoAnne Sellar",Paul Thomas Anderson,Paul Thomas Anderson,Paramount Vantage
-741,41440,"Paul Thomas Anderson, Daniel Lupi, and JoAnne Sellar",Paul Thomas Anderson,Paul Thomas Anderson,Paramount Vantage
-742,31495,Christian Colson,Danny Boyle,"Danny Boyle, Simon Beaufoy",Fox Searchlight Pictures
-743,36993,Christian Colson,Danny Boyle,"Danny Boyle, Simon Beaufoy",Fox Searchlight Pictures
-744,41645,Christian Colson,Danny Boyle,"Danny Boyle, Simon Beaufoy",Fox Searchlight Pictures
-745,31496,"Kathleen Kennedy, Frank Marshall, and Ceán Chaffin",David Fincher,"Eric Roth, Robin Swicord",Paramount
-746,41919,"Kathleen Kennedy, Frank Marshall, and Ceán Chaffin",David Fincher,"Eric Roth, Robin Swicord",Paramount
-747,31497,"Ron Howard, Brian Grazer, and Eric Fellner",Ron Howard,Peter Morgan,Universal Pictures
-748,36873,"Ron Howard, Brian Grazer, and Eric Fellner",Ron Howard,Peter Morgan,Universal Pictures
-749,42048,"Ron Howard, Brian Grazer, and Eric Fellner",Ron Howard,Peter Morgan,Universal Pictures
-750,16771,Bruce Cohen and Dan Jinks,Gus Van Sant,Dustin Lance Black,Focus Features
-751,26266,Bruce Cohen and Dan Jinks,Gus Van Sant,Dustin Lance Black,Focus Features
-752,31498,Bruce Cohen and Dan Jinks,Gus Van Sant,Dustin Lance Black,Focus Features
-753,36936,Bruce Cohen and Dan Jinks,Gus Van Sant,Dustin Lance Black,Focus Features
-754,31499,"Anthony Minghella, Sydney Pollack, Donna Gigliotti, and Redmond Morris",Stephen Daldry,David Hare,The Weinstein Co./MGM
-755,12659,James Cameron and Jon Landau,James Cameron,James Cameron,20th Century Fox
-756,31500,James Cameron and Jon Landau,James Cameron,James Cameron,20th Century Fox
-757,37079,James Cameron and Jon Landau,James Cameron,James Cameron,20th Century Fox
-758,41914,James Cameron and Jon Landau,James Cameron,James Cameron,20th Century Fox
-759,31501,"Gil Netter, Andrew A. Kosove, and Broderick Johnson",John Lee Hancock,John Lee Hancock,Warner Bros. Pictures
-760,42206,"Gil Netter, Andrew A. Kosove, and Broderick Johnson",John Lee Hancock,John Lee Hancock,Warner Bros. Pictures
-761,31502,Peter Jackson and Carolynne Cunningham,Neill Blomkamp,"Neill Blomkamp, Terri Tatchell",Sony Pictures/Screen Gems
-762,37140,Peter Jackson and Carolynne Cunningham,Neill Blomkamp,"Neill Blomkamp, Terri Tatchell",Sony Pictures/Screen Gems
-763,41779,Peter Jackson and Carolynne Cunningham,Neill Blomkamp,"Neill Blomkamp, Terri Tatchell",Sony Pictures/Screen Gems
-764,31503,Finola Dwyer and Amanda Posey,Lone Scherfig,Nick Hornby,Sony Classics
-765,37071,Finola Dwyer and Amanda Posey,Lone Scherfig,Nick Hornby,Sony Classics
-766,31504,Lawrence Bender,Quentin Tarantino,Quentin Tarantino,The Weinstein Company
-767,37217,Lawrence Bender,Quentin Tarantino,Quentin Tarantino,The Weinstein Company
-768,41385,Lawrence Bender,Quentin Tarantino,Quentin Tarantino,The Weinstein Company
-769,31505,Joel Coen and Ethan Coen,"Roger Deakins, Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",Focus Features
-770,37055,Joel Coen and Ethan Coen,"Roger Deakins, Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",Focus Features
-771,31506,Jonas Rivera,"Linn Patrick, Pete Docter, Bob Peterson, Peter Docter","Bob Peterson, Pete Docter, Tom McCarthy, Ronnie del Carmen",Walt Disney Pictures
-772,37358,Jonas Rivera,"Linn Patrick, Pete Docter, Bob Peterson, Peter Docter","Bob Peterson, Pete Docter, Tom McCarthy, Ronnie del Carmen",Walt Disney Pictures
-773,41437,Jonas Rivera,"Linn Patrick, Pete Docter, Bob Peterson, Peter Docter","Bob Peterson, Pete Docter, Tom McCarthy, Ronnie del Carmen",Walt Disney Pictures
-774,31507,"Daniel Dubiecki, Ivan Reitman, and Jason Reitman",Jason Reitman,"Sheldon Turner, Jason Reitman",Paramount Pictures
-775,37359,"Daniel Dubiecki, Ivan Reitman, and Jason Reitman",Jason Reitman,"Sheldon Turner, Jason Reitman",Paramount Pictures
-776,31508,"Iain Canning, Emile Sherman, and Gareth Unwin",Tom Hooper,David Seidler,The Weinstein Company
-777,41637,"Iain Canning, Emile Sherman, and Gareth Unwin",Tom Hooper,David Seidler,The Weinstein Company
-778,31509,"Danny Boyle, John Smithson, and Christian Colson",Danny Boyle,"Danny Boyle, Simon Beaufoy",Fox Searchlight
-779,37383,"Danny Boyle, John Smithson, and Christian Colson",Danny Boyle,"Danny Boyle, Simon Beaufoy",Fox Searchlight
-780,513,"Scott Franklin, Mike Medavoy, and Brian Oliver",Darren Aronofsky,"Andres Heinz, Mark Heyman, John J. McLaughlin",Fox Searchlight
-781,31510,"Scott Franklin, Mike Medavoy, and Brian Oliver",Darren Aronofsky,"Andres Heinz, Mark Heyman, John J. McLaughlin",Fox Searchlight
-782,37419,"Scott Franklin, Mike Medavoy, and Brian Oliver",Darren Aronofsky,"Andres Heinz, Mark Heyman, John J. McLaughlin",Fox Searchlight
-783,41646,"Scott Franklin, Mike Medavoy, and Brian Oliver",Darren Aronofsky,"Andres Heinz, Mark Heyman, John J. McLaughlin",Fox Searchlight
-784,31511,"David Hoberman, Todd Lieberman, and Mark Wahlberg",David O. Russell,"Eric Johnson, Scott Silver, Paul Tamasy, Paul Attanasio, David O. Russell",Paramount Pictures
-785,41905,"David Hoberman, Todd Lieberman, and Mark Wahlberg",David O. Russell,"Eric Johnson, Scott Silver, Paul Tamasy, Paul Attanasio, David O. Russell",Paramount Pictures
-786,31512,Christopher Nolan and Emma Thomas,Christopher Nolan,Christopher Nolan,Warner Bros. Pictures
-787,37536,Christopher Nolan and Emma Thomas,Christopher Nolan,Christopher Nolan,Warner Bros. Pictures
-788,41300,Christopher Nolan and Emma Thomas,Christopher Nolan,Christopher Nolan,Warner Bros. Pictures
-789,31513,"Gary Gilbert, Jeffrey Levy-Hinte, and Celine Rattray",Lisa Cholodenko,"Lisa Cholodenko, Stuart Blumberg",Focus Features
-790,31514,"Dana Brunetti, Ceán Chaffin, Michael De Luca, and Scott Rudin",David Fincher,"David Fincher, Aaron Sorkin",Columbia Pictures
-791,42039,"Dana Brunetti, Ceán Chaffin, Michael De Luca, and Scott Rudin",David Fincher,"David Fincher, Aaron Sorkin",Columbia Pictures
-792,31515,Darla K. Anderson,Lee Unkrich,"Lee Unkrich, Andrew Stanton, John Lasseter, Michael Arndt",Walt Disney Pictures
-793,37681,Darla K. Anderson,Lee Unkrich,"Lee Unkrich, Andrew Stanton, John Lasseter, Michael Arndt",Walt Disney Pictures
-794,41442,Darla K. Anderson,Lee Unkrich,"Lee Unkrich, Andrew Stanton, John Lasseter, Michael Arndt",Walt Disney Pictures
-795,31516,"Joel Coen, Ethan Coen, and Scott Rudin","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Paramount Pictures
-796,32889,"Joel Coen, Ethan Coen, and Scott Rudin","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Paramount Pictures
-797,37688,"Joel Coen, Ethan Coen, and Scott Rudin","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Paramount Pictures
-798,42195,"Joel Coen, Ethan Coen, and Scott Rudin","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Paramount Pictures
-799,31517,Alix Madigan and Anne Rosellini,Debra Granik,"Debra Granik, Anne Rosellini",Roadside Attractions
-800,29651,Thomas Langmann,Michel Hazanavicius,Michel Hazanavicius,The Weinstein Company
-801,31518,Thomas Langmann,Michel Hazanavicius,Michel Hazanavicius,The Weinstein Company
-802,41772,Thomas Langmann,Michel Hazanavicius,Michel Hazanavicius,The Weinstein Company
-803,31519,"Jim Burke, Alexander Payne, and Jim Taylor",Alexander Payne,"Jim Rash, Alexander Payne, Nat Faxon",Fox Searchlight Pictures
-804,31520,"Brunson Green, Chris Columbus, and Michael Barnathan",Tate Taylor,Tate Taylor,DreamWorks Studios
-805,41638,"Brunson Green, Chris Columbus, and Michael Barnathan",Tate Taylor,Tate Taylor,DreamWorks Studios
-806,31521,Graham King and Martin Scorsese,Martin Scorsese,John Logan,Paramount Studios
-807,37884,Graham King and Martin Scorsese,Martin Scorsese,John Logan,Paramount Studios
-808,31522,Letty Aronson and Stephen Tenenbaum,Woody Allen,Woody Allen,Sony Pictures Classics
-809,37947,Letty Aronson and Stephen Tenenbaum,Woody Allen,Woody Allen,Sony Pictures Classics
-810,42034,Letty Aronson and Stephen Tenenbaum,Woody Allen,Woody Allen,Sony Pictures Classics
-811,31523,"Michael De Luca, Rachael Horovitz, and Brad Pitt",Bennett Miller,"Steven Zaillian, Aaron Sorkin",Sony Pictures
-812,37951,"Michael De Luca, Rachael Horovitz, and Brad Pitt",Bennett Miller,"Steven Zaillian, Aaron Sorkin",Sony Pictures
-813,42201,"Michael De Luca, Rachael Horovitz, and Brad Pitt",Bennett Miller,"Steven Zaillian, Aaron Sorkin",Sony Pictures
-814,31524,"Sarah Green, Bill Pohlad, Dede Gardner, and Grant Hill",Terrence Malick,Terrence Malick,Fox Searchlight
-815,31525,Steven Spielberg and Kathleen Kennedy,Steven Spielberg,"Richard Curtis, Lee Hall",Walt Disney Pictures
-816,38062,Steven Spielberg and Kathleen Kennedy,Steven Spielberg,"Richard Curtis, Lee Hall",Walt Disney Pictures
-817,31526,"Grant Heslov, Ben Affleck, and George Clooney",Ben Affleck,Chris Terrio,Warner Bros. Pictures
-818,38109,"Grant Heslov, Ben Affleck, and George Clooney",Ben Affleck,Chris Terrio,Warner Bros. Pictures
-819,42044,"Grant Heslov, Ben Affleck, and George Clooney",Ben Affleck,Chris Terrio,Warner Bros. Pictures
-820,31527,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka, and Michael Katz","Michael Haneke, Michaelhaneke","Michael Haneke, Michaelhaneke",Sony Pictures Classics
-821,38103,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka, and Michael Katz","Michael Haneke, Michaelhaneke","Michael Haneke, Michaelhaneke",Sony Pictures Classics
-822,41774,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka, and Michael Katz","Michael Haneke, Michaelhaneke","Michael Haneke, Michaelhaneke",Sony Pictures Classics
-823,31528,"Dan Janvey, Josh Penn, and Michael Gottwald",Benh Zeitlin,"Benh Zeitlin, Lucy Alibar",Fox Searchlight
-824,38123,"Dan Janvey, Josh Penn, and Michael Gottwald",Benh Zeitlin,"Benh Zeitlin, Lucy Alibar",Fox Searchlight
-825,31529,"Stacey Sher, Reginald Hudlin, and Pilar Savone",Quentin Tarantino,Quentin Tarantino,The Weinstein Co.
-826,38177,"Stacey Sher, Reginald Hudlin, and Pilar Savone",Quentin Tarantino,Quentin Tarantino,The Weinstein Co.
-827,41354,"Stacey Sher, Reginald Hudlin, and Pilar Savone",Quentin Tarantino,Quentin Tarantino,The Weinstein Co.
-828,31530,"Gil Netter, Ang Lee, and David Womark",Ang Lee,David Magee,20th Century Fox
-829,38277,"Gil Netter, Ang Lee, and David Womark",Ang Lee,David Magee,20th Century Fox
-830,41789,"Gil Netter, Ang Lee, and David Womark",Ang Lee,David Magee,20th Century Fox
-831,31531,"Tim Bevan, Eric Fellner, Debra Hayward, and Cameron Mackintosh",Tom Hooper,"Claude-Michel Schonberg, William Nicholson, Claude-Michel Schoenberg, Alain Boublil, Herbert Kretzmer",Universal Pictures
-832,31532,"Donna Gigliotti, Bruce Cohen, and Jonathan Gordon",David O. Russell,David O. Russell,The Weinstein Company
-833,38364,"Donna Gigliotti, Bruce Cohen, and Jonathan Gordon",David O. Russell,David O. Russell,The Weinstein Company
-834,42043,"Donna Gigliotti, Bruce Cohen, and Jonathan Gordon",David O. Russell,David O. Russell,The Weinstein Company
-835,31533,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas",Steve McQueen (III),John Ridley,Fox Searchlight
-836,38428,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas",Steve McQueen (III),John Ridley,Fox Searchlight
-837,41506,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas",Steve McQueen (III),John Ridley,Fox Searchlight
-838,31534,"Charles Roven, Richard Suckle, Megan Ellison, and Jonathan Gordon",David O. Russell,"Eric Warren Singer, David O. Russell",Sony Pictures
-839,38453,"Charles Roven, Richard Suckle, Megan Ellison, and Jonathan Gordon",David O. Russell,"Eric Warren Singer, David O. Russell",Sony Pictures
-840,31535,"Scott Rudin, Dana Brunetti, and Michael De Luca",Paul Greengrass,Billy Ray,Sony Pictures
-841,38495,"Scott Rudin, Dana Brunetti, and Michael De Luca",Paul Greengrass,Billy Ray,Sony Pictures
-842,41895,"Scott Rudin, Dana Brunetti, and Michael De Luca",Paul Greengrass,Billy Ray,Sony Pictures
-843,31536,Robbie Brenner and Rachel Winter,Jean-Marc Vallée,"Craig Borten, Melisa Wallack",Focus Features
-844,38517,Robbie Brenner and Rachel Winter,Jean-Marc Vallée,"Craig Borten, Melisa Wallack",Focus Features
-845,41650,Robbie Brenner and Rachel Winter,Jean-Marc Vallée,"Craig Borten, Melisa Wallack",Focus Features
-846,31537,Alfonso Cuarón and David Heyman,Alfonso Cuarón,"Alfonso Cuarón, Jonás Cuarón",Warner Bros. Pictures
-847,38585,Alfonso Cuarón and David Heyman,Alfonso Cuarón,"Alfonso Cuarón, Jonás Cuarón",Warner Bros. Pictures
-848,42036,Alfonso Cuarón and David Heyman,Alfonso Cuarón,"Alfonso Cuarón, Jonás Cuarón",Warner Bros. Pictures
-849,31538,"Megan Ellison, Spike Jonze, and Vincent Landay",Spike Jonze,Spike Jonze,Warner Bros. Pictures
-850,38597,"Megan Ellison, Spike Jonze, and Vincent Landay",Spike Jonze,Spike Jonze,Warner Bros. Pictures
-851,41632,"Megan Ellison, Spike Jonze, and Vincent Landay",Spike Jonze,Spike Jonze,Warner Bros. Pictures
-852,31539,Albert Berger and Ron Yerxa,Alexander Payne,Bob Nelson,Paramount Pictures
-853,38689,Albert Berger and Ron Yerxa,Alexander Payne,Bob Nelson,Paramount Pictures
-854,42030,Albert Berger and Ron Yerxa,Alexander Payne,Bob Nelson,Paramount Pictures
-855,31540,"Gabrielle Tana, Steve Coogan, and Tracey Seaward",Stephen Frears,"Jeff Pope, Steve Coogan",The Weinstein Company
-856,38717,"Gabrielle Tana, Steve Coogan, and Tracey Seaward",Stephen Frears,"Jeff Pope, Steve Coogan",The Weinstein Company
-857,42188,"Gabrielle Tana, Steve Coogan, and Tracey Seaward",Stephen Frears,"Jeff Pope, Steve Coogan",The Weinstein Company
-858,31541,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland, and Emma Tillinger Koskoff",Martin Scorsese,Terence Winter,Paramount Studios
-859,41438,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland, and Emma Tillinger Koskoff",Martin Scorsese,Terence Winter,Paramount Studios
-860,31542,Richard Linklater and Cathleen Sutherland,Richard Linklater,Richard Linklater,IFC Films
-861,38877,Richard Linklater and Cathleen Sutherland,Richard Linklater,Richard Linklater,IFC Films
-862,41782,Richard Linklater and Cathleen Sutherland,Richard Linklater,Richard Linklater,IFC Films
-863,31543,"Wes Anderson, Scott Rudin, Steven M. Rales, and Jeremy Dawson",Wes Anderson,"Hugo Guinness, Wes Anderson",Fox Searchlight
-864,41500,"Wes Anderson, Scott Rudin, Steven M. Rales, and Jeremy Dawson",Wes Anderson,"Hugo Guinness, Wes Anderson",Fox Searchlight
-865,31544,"Nora Grossman, Ido Ostrowsky, and Teddy Schwarzman",Morten Tyldum,Graham Moore,The Weinstein Company
-866,41629,"Nora Grossman, Ido Ostrowsky, and Teddy Schwarzman",Morten Tyldum,Graham Moore,The Weinstein Company
-867,31545,"Christian Colson, Oprah Winfrey, Dede Gardner, and Jeremy Kleiner",Ava DuVernay,Paul Webb,Paramount Pictures
-868,39130,"Christian Colson, Oprah Winfrey, Dede Gardner, and Jeremy Kleiner",Ava DuVernay,Paul Webb,Paramount Pictures
-869,31546,"Tim Bevan, Eric Fellner, Lisa Bruce, and Anthony McCarten",James Marsh,Anthony McCarten,Focus Features
-870,42020,"Tim Bevan, Eric Fellner, Lisa Bruce, and Anthony McCarten",James Marsh,Anthony McCarten,Focus Features
-871,31547,"Jason Blum, Helen Estabrook, and David Lancaster",Damien Chazelle,Damien Chazelle,Sony Pictures Classics
-872,39188,"Jason Blum, Helen Estabrook, and David Lancaster",Damien Chazelle,Damien Chazelle,Sony Pictures Classics
-873,41326,"Jason Blum, Helen Estabrook, and David Lancaster",Damien Chazelle,Damien Chazelle,Sony Pictures Classics
-874,31548,"Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar",,Josh Singer,Open Road Films
-875,39464,"Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar",,Josh Singer,Open Road Films
-876,41509,"Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar",,Josh Singer,Open Road Films
-877,31549,"Dede Gardner, Jeremy Kleiner, and Brad Pitt",Adam McKay,"Adam McKay, Charles Randolph",Paramount Pictures
-878,41891,"Dede Gardner, Jeremy Kleiner, and Brad Pitt",Adam McKay,"Adam McKay, Charles Randolph",Paramount Pictures
-879,31550,"Steven Spielberg, Marc Platt, and Kristie Macosko Krieger",Steven Spielberg,"Matthew Charman, Steven Spielberg, Matt Charman, Ethan Coen, Joel Coen",Dreamworks Pictures
-880,39252,"Steven Spielberg, Marc Platt, and Kristie Macosko Krieger",Steven Spielberg,"Matthew Charman, Steven Spielberg, Matt Charman, Ethan Coen, Joel Coen",Dreamworks Pictures
-881,42181,"Steven Spielberg, Marc Platt, and Kristie Macosko Krieger",Steven Spielberg,"Matthew Charman, Steven Spielberg, Matt Charman, Ethan Coen, Joel Coen",Dreamworks Pictures
-882,31551,Finola Dwyer and Amanda Posey,John Crowley,Nick Hornby,Fox Searchlight Pictures
-883,39254,Finola Dwyer and Amanda Posey,John Crowley,Nick Hornby,Fox Searchlight Pictures
-884,31552,Doug Mitchell and George Miller,George Miller,"Brendan McCarthy, Nick Lathouris, George Miller",Warner Bros.
-885,39384,Doug Mitchell and George Miller,George Miller,"Brendan McCarthy, Nick Lathouris, George Miller",Warner Bros.
-886,41514,Doug Mitchell and George Miller,George Miller,"Brendan McCarthy, Nick Lathouris, George Miller",Warner Bros.
-887,31553,"Simon Kinberg, Ridley Scott, Michael Schaefer, and Mark Huffam",Ridley Scott,"Ridley Scott, Drew Goddard",20th Century Fox
-888,41620,"Simon Kinberg, Ridley Scott, Michael Schaefer, and Mark Huffam",Ridley Scott,"Ridley Scott, Drew Goddard",20th Century Fox
-889,3122,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent, and Keith Redmon","Alejandro González Iñárritu, Manny Palo","Mark L. Smith, Alejandro González Iñárritu",20th Century Fox
-890,31554,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent, and Keith Redmon","Alejandro González Iñárritu, Manny Palo","Mark L. Smith, Alejandro González Iñárritu",20th Century Fox
-891,41634,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent, and Keith Redmon","Alejandro González Iñárritu, Manny Palo","Mark L. Smith, Alejandro González Iñárritu",20th Century Fox
-892,31555,Ed Guiney,Lenny Abrahamson,Emma Donoghue,Element Pictures
-893,39443,Ed Guiney,Lenny Abrahamson,Emma Donoghue,Element Pictures
-894,41494,Ed Guiney,Lenny Abrahamson,Emma Donoghue,Element Pictures
-895,31556,"Adele Romanski, Dede Gardner, and Jeremy Kleiner",Barry Jenkins (III),Barry Jenkins (III),A24 Films
-896,39736,"Adele Romanski, Dede Gardner, and Jeremy Kleiner",Barry Jenkins (III),Barry Jenkins (III),A24 Films
-897,31557,"Shawn Levy, Dan Levine, Aaron Ryder, and David Linde",Denis Villeneuve,Eric Heisserer,21 Laps Entertainment
-898,39557,"Shawn Levy, Dan Levine, Aaron Ryder, and David Linde",Denis Villeneuve,Eric Heisserer,21 Laps Entertainment
-899,41767,"Shawn Levy, Dan Levine, Aaron Ryder, and David Linde",Denis Villeneuve,Eric Heisserer,21 Laps Entertainment
-900,31558,"Scott Rudin, Denzel Washington, and Todd Black",Denzel Washington,August Wilson,Paramount Pictures
-901,39636,"Scott Rudin, Denzel Washington, and Todd Black",Denzel Washington,August Wilson,Paramount Pictures
-902,31559,Bill Mechanic and David Permut,Mel Gibson,"Andrew Knight, Robert Schenkkan",Summit Entertainment
-903,39655,Bill Mechanic and David Permut,Mel Gibson,"Andrew Knight, Robert Schenkkan",Summit Entertainment
-904,41503,Bill Mechanic and David Permut,Mel Gibson,"Andrew Knight, Robert Schenkkan",Summit Entertainment
-905,31560,Carla Hacken and Julie Yorn,David Mackenzie,Taylor Sheridan,Film 44
-906,39661,Carla Hacken and Julie Yorn,David Mackenzie,Taylor Sheridan,Film 44
-907,42187,Carla Hacken and Julie Yorn,David Mackenzie,Taylor Sheridan,Film 44
-908,31561,"Fred Berger, Jordan Horowitz, and Marc Platt",Damien Chazelle,Damien Chazelle,Liongate Films
-909,39698,"Fred Berger, Jordan Horowitz, and Marc Platt",Damien Chazelle,Damien Chazelle,Liongate Films
-910,41618,"Fred Berger, Jordan Horowitz, and Marc Platt",Damien Chazelle,Damien Chazelle,Liongate Films
-911,31562,"Emile Sherman, Iain Canning, and Angie Fielder",Garth Davis,"Saroo Brierley, Luke Davies",See-Saw Films
-912,39707,"Emile Sherman, Iain Canning, and Angie Fielder",Garth Davis,"Saroo Brierley, Luke Davies",See-Saw Films
-913,41619,"Emile Sherman, Iain Canning, and Angie Fielder",Garth Davis,"Saroo Brierley, Luke Davies",See-Saw Films
-914,31563,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck, and Kevin J. Walsh",Kenneth Lonergan,Kenneth Lonergan,Roadside Attractions 
-915,39718,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck, and Kevin J. Walsh",Kenneth Lonergan,Kenneth Lonergan,Roadside Attractions 
-916,41871,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck, and Kevin J. Walsh",Kenneth Lonergan,Kenneth Lonergan,Roadside Attractions 
-917,31564,Guillermo del Toro and J. Miles Dale,Guillermo del Toro,"Guillermo del Toro, Vanessa Taylor",Fox Searchlight Pictures
-918,31565,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, and Douglas Urbanski",Joe Wright,Anthony McCarten,Focus Features
-919,39922,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, and Douglas Urbanski",Joe Wright,Anthony McCarten,Focus Features
-920,31566,Emma Thomas and Christopher Nolan,Christopher Nolan,Christopher Nolan,Warner Bros. Pictures
-921,39940,Emma Thomas and Christopher Nolan,Christopher Nolan,Christopher Nolan,Warner Bros. Pictures
-922,41864,Emma Thomas and Christopher Nolan,Christopher Nolan,Christopher Nolan,Warner Bros. Pictures
-923,182,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan Peele",Jordan Peele,Jordan Peele,Universal Pictures
-924,31567,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan Peele",Jordan Peele,Jordan Peele,Universal Pictures
-925,39966,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan Peele",Jordan Peele,Jordan Peele,Universal Pictures
-926,42015,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan Peele",Jordan Peele,Jordan Peele,Universal Pictures
-927,31568,"Scott Rudin, Eli Bush, and Evelyn O'Neill",Greta Gerwig,Greta Gerwig,A24
-928,40007,"Scott Rudin, Eli Bush, and Evelyn O'Neill",Greta Gerwig,Greta Gerwig,A24
-929,31569,"Graham Broadbent, Pete Czernin, and Martin McDonagh",Martin McDonagh,Martin McDonagh,Fox Searchlight Pictures
-930,40093,"Graham Broadbent, Pete Czernin, and Martin McDonagh",Martin McDonagh,Martin McDonagh,Fox Searchlight Pictures
-931,41424,"Graham Broadbent, Pete Czernin, and Martin McDonagh",Martin McDonagh,Martin McDonagh,Fox Searchlight Pictures
-932,31570,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga",Peter Farrelly,"Nick Vallelonga, Peter Farrelly, Brian Currie",Universal Pictures
-933,40227,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga",Peter Farrelly,"Nick Vallelonga, Peter Farrelly, Brian Currie",Universal Pictures
-934,41423,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga",Peter Farrelly,"Nick Vallelonga, Peter Farrelly, Brian Currie",Universal Pictures
-935,31571,Kevin Feige,Ryan Coogler,"Joe Robert Cole, Ryan Coogler",Marvel Studios
-936,40163,Kevin Feige,Ryan Coogler,"Joe Robert Cole, Ryan Coogler",Marvel Studios
-937,31572,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele, and Spike Lee",Spike Lee,"Charlie Wachtel, David Rabinowitz, Kevin Willmott, Spike Lee",Focus Features
-938,40160,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele, and Spike Lee",Spike Lee,"Charlie Wachtel, David Rabinowitz, Kevin Willmott, Spike Lee",Focus Features
-939,31573,Graham King,Bryan Singer,Anthony McCarten,20th Century Fox
-940,40167,Graham King,Bryan Singer,Anthony McCarten,20th Century Fox
-941,41633,Graham King,Bryan Singer,Anthony McCarten,20th Century Fox
-942,31574,"Ceci Dempsey, Ed Guiney, Lee Magiday, and Yorgos Lanthimos",Yorgos Lanthimos,"Deborah Davis, Tony McNamara","Fox Searchlight Pictures, Film4 and Waypoint"
-943,31575,Gabriela Rodríguez and Alfonso Cuarón,Alfonso Cuarón,Alfonso Cuarón,Netflix
-944,40335,Gabriela Rodríguez and Alfonso Cuarón,Alfonso Cuarón,Alfonso Cuarón,Netflix
-945,42011,Gabriela Rodríguez and Alfonso Cuarón,Alfonso Cuarón,Alfonso Cuarón,Netflix
-946,31182,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",Bradley Cooper,"Will Fetters, Eric Roth, Bradley Cooper",Warner Bros. Pictures
-947,31576,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",Bradley Cooper,"Will Fetters, Eric Roth, Bradley Cooper",Warner Bros. Pictures
-948,32235,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",Bradley Cooper,"Will Fetters, Eric Roth, Bradley Cooper",Warner Bros. Pictures
-949,33188,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",Bradley Cooper,"Will Fetters, Eric Roth, Bradley Cooper",Warner Bros. Pictures
-950,40127,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",Bradley Cooper,"Will Fetters, Eric Roth, Bradley Cooper",Warner Bros. Pictures
-951,42194,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",Bradley Cooper,"Will Fetters, Eric Roth, Bradley Cooper",Warner Bros. Pictures
-952,31577,"Dede Gardner, Jeremy Kleiner, Adam McKay, and Kevin Messick",Adam McKay,Adam McKay,Annapurna Pictures
-953,39511,"Dede Gardner, Jeremy Kleiner, Adam McKay, and Kevin Messick",Adam McKay,Adam McKay,Annapurna Pictures
-954,40380,"Dede Gardner, Jeremy Kleiner, Adam McKay, and Kevin Messick",Adam McKay,Adam McKay,Annapurna Pictures
-955,31578,"Martin Scorsese, Robert De Niro, Jane Rosenthal, and Emma Tillinger Koskoff",Martin Scorsese,Steven Zaillian,Netflix
-956,41775,"Martin Scorsese, Robert De Niro, Jane Rosenthal, and Emma Tillinger Koskoff",Martin Scorsese,Steven Zaillian,Netflix
-957,31579,"Todd Phillips, Bradley Cooper, and Emma Tillinger Koskoff",Todd Phillips,"Todd Phillips, Scott Silver",Warner Bros. Pictures
-958,40518,"Todd Phillips, Bradley Cooper, and Emma Tillinger Koskoff",Todd Phillips,"Todd Phillips, Scott Silver",Warner Bros. Pictures
-959,41325,"Todd Phillips, Bradley Cooper, and Emma Tillinger Koskoff",Todd Phillips,"Todd Phillips, Scott Silver",Warner Bros. Pictures
-960,31580,Noah Baumbach and David Heyman,Noah Baumbach,Noah Baumbach,Netflix
-961,40558,Noah Baumbach and David Heyman,Noah Baumbach,Noah Baumbach,Netflix
-962,41757,Noah Baumbach and David Heyman,Noah Baumbach,Noah Baumbach,Netflix
+0,,Famous Players-Lasky,William Wellman,"Hope Loring, Louis D. Lighton",Unknown
+1,,Metro-Goldwyn-Mayer,Harry Beaumont,"James Gleason, Norman Houston, Sarah Y. Mason",MGM Home Entertainment
+2,,Fox,"Irving Cummings, Raoul Walsh",Tom Barry,20th Century Fox Film Corporation
+3,,Cosmopolitan,George W. Hill,"Frances Marion, Martin Flavin, Joseph Farnham, Lennox Robinson",Warner Bros.
+4,,RKO Radio,Wesley Ruggles,"Howard Estabrook, Edna Ferber",MGM Home Entertainment
+5,,Metro-Goldwyn-Mayer,Edmund Goulding,William A. Drake,MGM Home Entertainment
+6,,Metro-Goldwyn-Mayer,King Vidor,"Frances Marion, Leonard Praskins, Wanda Tuchock",MGM
+7,,Fox,Frank Lloyd,Reginald Berkeley,20th Century Fox Film Corporation
+8,,Warner Bros.,Lloyd Bacon,"Rian James, James Seymour, Whitney Bolton",MGM Home Entertainment
+9,,Paramount,Frank Borzage,"Frank Borzage, Ernest Hemingway, Benjamin Glazer, Oliver H.P. Garrett",Gravitas
+10,,RKO Radio,George Cukor,"Sarah Y. Mason, Victor Heerman",WARNER BROTHERS PICTURES
+11,,London Films,Alexander Korda,"Lajos Biró, Arthur Wimperis",Criterion Collection
+12,,Paramount,Lowell Sherman,"Mae West, Harvey Thew, John Bright",MCA Universal Home Video
+13,,Columbia,Frank Capra,Robert Riskin,Sony Pictures Home Entertainment
+14,,Metro-Goldwyn-Mayer,Sidney Franklin,"Ernest Vajda, Claudine West, Donald Ogden Stewart",MGM
+15,,RKO Radio,Mark Sandrich,"George Marion Jr., Edward Kaufman, Dwight Taylor, Dorothy Yost",RKO Radio Pictures
+16,,Universal,John M. Stahl,William Hurlbut,Universal Studios
+17,23544,Metro-Goldwyn-Mayer,W.S. Van Dyke,"Dashiell Hammett, Frances Goodrich, Albert Hackett",MGM
+18,,Metro-Goldwyn-Mayer,Frank Lloyd,"Jules Furthman, Talbot Jennings, Carey Wilson",MGM
+19,,RKO Radio,George Stevens,"Mortimer Offner, Dorothy Yost",Turner Home Entertainment
+20,,Cosmopolitan,Michael Curtiz,Casey Robinson,Twentieth Century Fox Home Entertainment
+21,,RKO Radio,John Ford,Dudley Nichols,Media Home Entertainment
+22,,Warner Bros.,"William Dieterle, Max Reinhardt","Mary C. McCall Jr., Charles Kenyon",Warner Bros.
+23,,RKO Radio,Mark Sandrich,"Dwight Taylor, Allan Scott",Turner Home Entertainment
+24,,Metro-Goldwyn-Mayer,Robert Z. Leonard,William Anthony McGuire,MGM Home Entertainment
+25,,Samuel Goldwyn Productions,William Wyler,Sidney Howard,Samuel Goldwyn Films
+26,,Metro-Goldwyn-Mayer,Jack Conway,"George Oppenheimer, Maurine Dallas Watkins, Wallace Sullivan, Howard Emmet Rogers, Maurine Watkins",Warner Home Video
+27,,Columbia,Frank Capra,Robert Riskin,Columbia Pictures
+28,,Metro-Goldwyn-Mayer,George Cukor,Talbot Jennings,MGM
+29,,Metro-Goldwyn-Mayer,"D.W. Griffith, W.S. Van Dyke","Anita Loos, Erich von Stroheim, Robert E. Hopkins",MGM
+30,,Metro-Goldwyn-Mayer,Jack Conway,"S.N. Behrmann, W.P. Lipscomb",Warner Home Video
+31,,Universal,Henry Koster,"Adele Comandini, Austin Parker",Universal Pictures
+32,,Warner Bros.,"Irving Rapper, William Dieterle","Norman Reilly Raine, Heinz Herald, Geza Herczeg",MGM Home Entertainment
+33,,Columbia,Leo McCarey,Viña Delmar,Columbia
+34,,Metro-Goldwyn-Mayer,Victor Fleming,"John Lee Mahin, Marc Connelly, Dale Van Every, Marc Connolly",MGM Home Entertainment
+35,1490,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+36,6593,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+37,12136,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+38,13270,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+39,13817,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+40,16720,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+41,17967,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+42,21433,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+43,23409,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+44,26775,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+45,26927,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+46,28416,Samuel Goldwyn Productions,William Wyler,Lillian Hellman,MGM
+47,,Metro-Goldwyn-Mayer,"Sidney Franklin, Victor Fleming","Claudine West, Talbot Jennings, Tess Slesinger, Donald Davis",WARNER BROTHERS PICTURES
+48,,Columbia,Frank Capra,Robert Riskin,Sony Pictures Home Entertainment
+49,,RKO Radio,Gregory La Cava,"Gregory La Cava, Morrie Ryskind, Anthony Veiller",Warner Home Video
+50,,Selznick International Pictures,"William Wellman, Jack Conway","Dorothy Parker, Alan Campbell, Bob Carson, Ring Lardner Jr., Budd Schulberg, David O. Selznick, William Wellman, John Lee Mahin, Ben Hecht, Adela Rogers St. John, W. Howard Greene",Image Entertainment Inc.
+51,,Warner Bros.-First National,"Michael Curtiz, William Keighley","Norman Reilly Raine, Seton I. Miller, Michael Curtiz, William Keighley",Warner Bros.
+52,,20th Century-Fox,Henry King,"Lamar Trotti, Kathryn Scola, Irving Berlin, Richard Sherman",20th Century Fox Film Corporation
+53,,Metro-Goldwyn-Mayer,Norman Taurog,"Dore Schary, Eleanore Griffin, John Meehan",MGM Home Entertainment
+54,,Metro-Goldwyn-Mayer,King Vidor,"Ian Dalrymple, Frank Wead, Elizabeth Hill, Emlyn Williams",MGM Home Entertainment
+55,,Warner Bros.-First National,Edmund Goulding,"Casey Robinson, Bertram Bloch",Twentieth Century Fox Home Entertainment
+56,,Metro-Goldwyn-Mayer,Sam Wood,"R.C. Sherriff, Eric Maschwitz, Claudine West, James Hilton, Sidney Franklin",MGM Home Entertainment
+57,,RKO Radio,Leo McCarey,"Delmer Daves, Donald Ogden Stewart, Leo McCarey",Madacy Entertainment
+58,,Columbia,Frank Capra,Sidney Buchman,Sony Pictures Home Entertainment
+59,,Metro-Goldwyn-Mayer,Ernst Lubitsch,"Charles Brackett, Billy Wilder, Walter Reisch, Ernst Lubitsch, Melchior Lengyel",Warner Bros. Pictures
+60,,Hal Roach (production company),Lewis Milestone,Eugene Solow,United Artists
+61,,Walter Wanger (production company),John Ford,"Ben Hecht, Dudley Nichols",Warner Home Video
+62,,Metro-Goldwyn-Mayer,"King Vidor, Victor Fleming","Florence Ryerson, Noel Langley, Edgar Allan Woolf",Warner Bros. Pictures
+63,,Samuel Goldwyn Productions,William Wyler,"Ben Hecht, Charles MacArthur",United Artists
+64,,Warner Bros.,Anatole Litvak,Casey Robinson,Warner Bros. Pictures
+65,,Walter Wanger (production company),Alfred Hitchcock,"Charles Bennett, James Hilton, Joan Harrison, Richard Maibaum, Robert Benchley",Warner Home Video
+66,,20th Century-Fox,John Ford,Nunnally Johnson,20th Century Fox Film Corporation
+67,,Charles Chaplin Productions,Charles Chaplin,Charles Chaplin,Criterion Collection
+68,,RKO Radio,Sam Wood,"Dalton Trumbo, Donald Ogden Stewart",Media Home Entertainment
+69,29235,Warner Bros.,William Wyler,Howard Koch,MGM Home Entertainment
+70,,Sol Lesser (production company),Sam Wood,"Frank Craven, Thornton Wilder, Harry Chandlee",United Artists
+71,,Metro-Goldwyn-Mayer,George Cukor,"Donald Ogden Stewart, Waldo Salt",MGM
+72,,20th Century-Fox,John Ford,"Richard Llewellyn, Philip Dunne",Twentieth Century Fox Home Entertainment
+73,,Metro-Goldwyn-Mayer,Mervyn LeRoy,"Anita Loos, Ralph Wheelwright",WARNER BROTHERS PICTURES
+74,,Mercury,Orson Welles,"Herman J. Mankiewicz, Orson Welles",RKO Radio Pictures
+75,,Columbia,Alexander Hall,"Sidney Buchman, Harry Segall, Seton I. Miller",Sony Pictures Entertainment
+76,,Samuel Goldwyn Productions,William Wyler,"Lillian Hellman, Dorothy Parker, Arthur Kober, Alan Campbell",RKO
+77,,Warner Bros.,John Huston,John Huston,Warner Bros.
+78,,Warner Bros.,Howard Hawks,"Abem Finkel, Harry Chandlee, Howard Koch, John Huston",Warner Bros. Pictures
+79,,RKO Radio,Alfred Hitchcock,"Joan Harrison, Alma Reville, Alfred Hitchcock, Samson Raphaelson",WARNER BROTHERS PICTURES
+80,,Metro-Goldwyn-Mayer,William Wyler,"Arthur Wimperis, James Hilton, Claudine West, George Froeschel",MGM Home Entertainment
+81,,Warner Bros.,Sam Wood,Casey Robinson,Warner Home Video
+82,,Mercury,Orson Welles,Orson Welles,RKO Radio Pictures
+83,,Samuel Goldwyn Productions,Sam Wood,"Jo Swerling, Herman J. Mankiewicz, Paul Gallico",MGM
+84,,Metro-Goldwyn-Mayer,Mervyn LeRoy,"George Froeschel, Claudine West, Arthur Wimperis",MGM Home Entertainment
+85,,Columbia,George Stevens,"Irwin Shaw, Sidney Buchman, Sidney Harmon, Dale Van Every",Sony Pictures Entertainment
+86,,Warner Bros.,"Michael Curtiz, Hugh MacMullan","Robert Buckner, Edmund Joseph",MGM Home Entertainment
+87,,Warner Bros.,Michael Curtiz,"Julius J. Epstein, Philip G. Epstein, Howard Koch, Michael Curtiz",Warner Bros. Pictures
+88,,Paramount,Sam Wood,Dudley Nichols,MCA Universal Home Video
+89,,20th Century-Fox,Ernst Lubitsch,Samson Raphaelson,20th Century Fox Film Corporation
+90,,Metro-Goldwyn-Mayer,Clarence Brown,Howard Estabrook,Warner Home Video
+91,,Two Cities Films,"David Lean, Noel Coward",Noel Coward,MCA Universal Home Video
+92,,Metro-Goldwyn-Mayer,Mervyn LeRoy,"Paul Osborn, Paul H. Rameau",Warner Bros. Pictures
+93,,Columbia,George Stevens,"Robert Russell, Frank Ross, Richard Flournoy, Lewis R. Foster",Columbia Pictures
+94,,20th Century-Fox,Henry King,George Seaton,Twentieth Century Fox Home Entertainment
+95,,Warner Bros.,Herman Shumlin,"Dashiell Hammett, Lillian Hellman",Warner Home Video
+96,,Paramount,Leo McCarey,"Frank Corvett, Frank Butler, Frank Cavett, Leo McCarey",Paramount Pictures
+97,,Paramount,Billy Wilder,"Raymond Chandler, Billy Wilder",Paramount Pictures
+98,25692,Metro-Goldwyn-Mayer,George Cukor,"John Van Druten, Walter Reisch, John L. Balderston",MGM
+99,,Paramount,Billy Wilder,"Billy Wilder, Charles Brackett",Paramount Pictures
+100,,Metro-Goldwyn-Mayer,George Sidney,Isobel Lennart,MGM Home Entertainment
+101,,Warner Bros.,Michael Curtiz,Ranald MacDougall,MGM Home Entertainment
+102,,Samuel Goldwyn Productions,William Wyler,Robert E. Sherwood,RKO Radio Pictures
+103,,Liberty Films,Frank Capra,"Frank Capra, Frances Goodrich, Albert Hackett",Liberty Films
+104,,20th Century-Fox,Edmund Goulding,Lamar Trotti,Twentieth Century Fox
+105,,Metro-Goldwyn-Mayer,Clarence Brown,Paul Osborn,MGM Home Entertainment
+106,,20th Century-Fox,Elia Kazan,Moss Hart,Twentieth Century Fox Home Entertainment
+107,12395,RKO Radio,Edward Dmytryk,John Paxton,WARNER BROTHERS PICTURES
+108,,20th Century-Fox,George Seaton,George Seaton,20th Century Fox
+109,25622,J. Arthur Rank-Two Cities Films,Laurence Olivier,"Laurence Olivier, Alan Dent",Universal
+110,25623,J. Arthur Rank-Two Cities Films,Laurence Olivier,"Laurence Olivier, Alan Dent",Universal
+111,,Warner Bros.,Jean Negulesco,"Allen Vincent, Irma von Cube",Warner Bros. Pictures
+112,3780,J. Arthur Rank-Archers,"Michael Powell, Emeric Pressburger","Michael Powell, Emeric Pressburger, Keith Winter",Eagle-Lion Films
+113,,20th Century-Fox,Anatole Litvak,"Frank Partos, Millen Brand",20th Century Fox Film Corporation
+114,,Warner Bros.,John Huston,John Huston,WARNER BROTHERS PICTURES
+115,,Columbia,Robert Rossen,"Robert Rossen, Robert Penn Warren",Sony Pictures Home Entertainment
+116,,Metro-Goldwyn-Mayer,William Wellman,Robert Pirosh,MGM
+117,,20th Century-Fox,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Vera Caspary",Fox
+118,,20th Century-Fox,Henry King,"Beirne Lay, Lt. Beirne Lay Jr., Sy Bartlett",Twentieth Century Fox Home Entertainment
+119,,20th Century-Fox,Joseph L. Mankiewicz,Joseph L. Mankiewicz,20th Century Fox
+120,,Columbia,George Cukor,Albert Mannheimer,Columbia Pictures
+121,,Metro-Goldwyn-Mayer,Vincente Minnelli,"Frances Goodrich, Albert Hackett",MGM
+122,,Metro-Goldwyn-Mayer,"Compton Bennett, Andrew Marton","Helen Deutsch, Compton Bennett, Andrew Marton",MGM Home Entertainment
+123,,Paramount,Billy Wilder,"D.M. Marshman, Jr., Charles Brackett, Billy Wilder",Paramount Pictures
+124,,Arthur Freed,Vincente Minnelli,"Alan Jay Lerner, Vincente Minnelli",MGM
+125,,Anatole Litvak and Frank McCarthy,Anatole Litvak,Peter Viertel,20th Century Fox Film Corporation
+126,,George Stevens,George Stevens,"Michael Wilson, Harry Brown",Paramount Pictures
+127,,Charles K. Feldman,Elia Kazan,"Tennessee Williams, Oscar Saul",Warner Bros. Pictures
+128,,Cecil B. DeMille,Cecil B. DeMille,"Fredric M. Frank, Barré Lyndon, Theodore St. John, Frank Cavett",Paramount Pictures
+129,,Stanley Kramer,Fred Zinnemann,Carl Foreman,United Artists
+130,,Pandro S. Berman,Richard Thorpe,"Noel Langley, Aeneas MacKenzie",MGM Home Entertainment
+131,,"John Huston, John Woolf and James Woolf",John Huston,"Anthony Veiller, John Huston",United Artists
+132,,John Ford and Merian C. Cooper,John Ford,"Frank S. Nugent, Richard Llewellyn",Republic Pictures
+133,,Buddy Adler,Fred Zinnemann,Daniel Taradash,NCM Fathom
+134,,John Houseman,Joseph L. Mankiewicz,Joseph L. Mankiewicz,MGM Home Entertainment
+135,,Frank Ross,Henry Koster,"Philip Dunne, Albert Maltz, Gina Kaus",20th Century Fox
+136,,William Wyler,William Wyler,"John Dighton, Ian McLellan Hunter, Dalton Trumbo, William Wyler",Paramount Pictures
+137,,George Stevens,George Stevens,"A.B. Guthrie Jr., Jack Sher",Paramount Home Video
+138,,Sam Spiegel,Elia Kazan,Budd Schulberg,Sony Pictures
+139,,Stanley Kramer,Edward Dmytryk,"Stanley Roberts, Michael Blankfort",Sony Pictures Home Entertainment
+140,,William Perlberg,George Seaton,George Seaton,Paramount Pictures
+141,,Jack Cummings,Stanley Donen,"Albert Hackett, Frances Goodrich, Dorothy Kingsley",MGM Home Entertainment
+142,,Sol C. Siegel,Jean Negulesco,John Patrick,20th Century Fox Film Corporation
+143,,Harold Hecht,Delbert Mann,Paddy Chayefsky,MGM Home Entertainment
+144,,Leland Hayward,"John Ford, Mervyn LeRoy","Frank S. Nugent, Joshua Logan",Warner Home Video
+145,,Fred Kohlmar,Joshua Logan,Daniel Taradash,Sony Pictures Home Entertainment
+146,,Hal B. Wallis,Daniel Mann,"Tennessee Williams, Hal Kanter",Paramount Pictures
+147,,Michael Todd,Michael Anderson,"John Farrow, James Poe, S.J. Perelman",United Artists
+148,,William Wyler,William Wyler,Michael Wilson,Twentieth Century Fox Home Entertainment
+149,,George Stevens and Henry Ginsberg,George Stevens,"Fred Guiol, Ivan Moffat",Warner Bros. Pictures
+150,,Charles Brackett,Walter Lang,Ernest Lehman,20th Century Fox
+151,,Cecil B. DeMille,Cecil B. DeMille,"Jesse L. Lasky, Aeneas MacKenzie, Fredric M. Frank, Jack Gariss, Jesse Lasky Jr.",Paramount Pictures
+152,,Sam Spiegel,David Lean,"Michael Wilson, Carl Foreman",Columbia Pictures
+153,,Jerry Wald,Mark Robson,John Michael Hayes,20th Century Fox
+154,,Arthur Hornblow Jr.,Billy Wilder,"Billy Wilder, Lawrence B. Marcus, Harry Kurnitz",MGM
+155,,Arthur Freed,Vincente Minnelli,"Alan Jay Lerner, Frederick Loewe",MGM Home Entertainment
+156,,Jack L. Warner,Morton DaCosta,"Betty Comden, Adolph Green, Robert E. Lee, Dennis Patrick",Warner Bros. Pictures
+157,,Stanley Kramer,Stanley Kramer,"Harold Jacob Smith, Ned Young, Nathan E. Douglas",MGM Home Entertainment
+158,,Harold Hecht,Delbert Mann,"John Gay, Terence Rattigan",MGM Home Entertainment
+159,,Sam Zimbalist,William Wyler,Karl Tunberg,MGM
+160,,Otto Preminger,Otto Preminger,Wendell Mayes,Sony Pictures Home Entertainment
+161,,George Stevens,George Stevens,"Albert Hackett, Frances Goodrich",Fox
+162,,Henry Blanke,Fred Zinnemann,Robert Anderson,Warner Home Video
+163,30488,Billy Wilder,Billy Wilder,"Billy Wilder, I.A.L. Diamond",United Artists
+164,,John Wayne,John Wayne,James Edward Grant,Batjac Productions
+165,,Fred Zinnemann,Fred Zinnemann,Isobel Lennart,Warner Home Video
+166,,Robert Wise,"Robert Wise, Jerome Robbins",Ernest Lehman,United Artists Films
+167,,Carl Foreman,J. Lee Thompson,"J. Lee Thompson, Carl Foreman",Columbia Pictures
+168,,Robert Rossen,Robert Rossen,"Sidney Carroll, Robert Rossen",Fox
+169,,Sam Spiegel,David Lean,"Robert Bolt, Michael Wilson",Columbia Pictures
+170,,Darryl F. Zanuck,"Ken Annakin, Andrew Marton, Gerd Oswald, Bernhard Wicki, Darryl F. Zanuck","Cornelius Ryan, David Pursall, James Jones, Jack Seddon, Romain Gary",Twentieth Century Fox Home Entertainment
+171,,Morton DaCosta,Morton DaCosta,Marion Hargrove,Warner Bros. Pictures
+172,,Aaron Rosenberg,"Lewis Milestone, Carol Reed",Charles Lederer,WARNER BROTHERS PICTURES
+173,,Tony Richardson,Tony Richardson,John Osborne,Woodfall Film Productions
+174,,Elia Kazan,Elia Kazan,Elia Kazan,Warner Home Video
+175,,Walter Wanger,Joseph L. Mankiewicz,"Joseph L. Mankiewicz, Ranald MacDougall, Sidney Buchman",20th Century Fox
+176,,Ralph Nelson,Ralph Nelson,James Poe,Twentieth Century Fox Home Entertainment
+177,,Hal B. Wallis,Peter Glenville,"Edward Anhalt, Jean Anouilh",Slowhand Releasing
+178,,Walt Disney and Bill Walsh,Robert Stevenson,"Don DaGradi, Bill Walsh",Walt Disney Productions
+179,,Michael Cacoyannis,,,Fox
+180,,Robert Wise,Robert Wise,Ernest Lehman,20th Century-Fox
+181,4812,Joseph Janni,John Schlesinger,Frederic Raphael,Lionsgate
+182,7529,Joseph Janni,John Schlesinger,Frederic Raphael,Lionsgate
+183,10398,Joseph Janni,John Schlesinger,Frederic Raphael,Lionsgate
+184,,Carlo Ponti,David Lean,Robert Bolt,MGM
+185,,Stanley Kramer,Stanley Kramer,"Abby Mann, Stanley Kramer",Columbia Pictures
+186,,Fred Zinnemann,Fred Zinnemann,"Robert Bolt, Constance Willis",Sony Pictures Home Entertainment
+187,,Lewis Gilbert,Lewis Gilbert,Bill Naughton,Paramount Pictures
+188,,Norman Jewison,Norman Jewison,"William Rose, Nathaniel Benchley",MGM
+189,,Robert Wise,Robert Wise,Robert Anderson,Twentieth Century Fox Home Entertainment
+190,,Ernest Lehman,Mike Nichols,Ernest Lehman,Warner Home Video
+191,,Walter Mirisch,Norman Jewison,"Stirling Silliphant, Sterling Silliphant",MGM
+192,,Warren Beatty,Arthur Penn,"David Newman, Robert Benton",Warner Brothers/Seven Arts
+193,,Arthur P. Jacobs,Richard Fleischer,Leslie Bricusse,20th Century Fox
+194,,Lawrence Turman,Mike Nichols,"Calder Willingham, Buck Henry",Embassy Pictures/Rialto Pictures
+195,,Stanley Kramer,Stanley Kramer,William Rose,Columbia Pictures Corporation
+196,,John Woolf,Carol Reed,"Vernon Harris, Lionel Bart, Vernon Gilbert Harris",Sony Pictures Home Entertainment
+197,,Ray Stark,William Wyler,"Isobel Lennart, Jule Styne, Bob Merrill",Columbia Pictures
+198,,Martin Poll,Anthony Harvey,James Goldman,Nelson Entertainment
+199,,Paul Newman,Paul Newman,Stewart Stern,Warner Bros.
+200,,Anthony Havelock-Allan and John Brabourne,Franco Zeffirelli,"Franco Zeffirelli, Masolino D'Amico, Franco Brusati",Paramount Home Video
+201,,Jerome Hellman,John Schlesinger,Waldo Salt,United Artists
+202,,Hal B. Wallis,Charles Jarrott,"John Boland, Bridget Boland, John Hale, Richard Sokolove",Universal Pictures
+203,,John Foreman,George Roy Hill,"William Goldman, George Roy Hill",20th Century Fox
+204,,Ernest Lehman,Gene Kelly,Ernest Lehman,20th Century Fox
+205,897,Jacques Perrin and Ahmed Rachedi,Costa-Gavras,"Jorge Semprún, Costa-Gavras",Rialto Pictures
+206,13669,Jacques Perrin and Ahmed Rachedi,Costa-Gavras,"Jorge Semprún, Costa-Gavras",Rialto Pictures
+207,23147,Jacques Perrin and Ahmed Rachedi,Costa-Gavras,"Jorge Semprún, Costa-Gavras",Rialto Pictures
+208,,Frank McCarthy,Franklin J. Schaffner,"Francis Ford Coppola, Edmund H. North",Twentieth Century Fox Home Entertainment
+209,,Ross Hunter,"George Seaton, Henry Hathaway",George Seaton,Universal Pictures
+210,,Bob Rafelson and Richard Wechsler,"Bob Rafelson, Dennis Hopper","Adrien Joyce, Carole Eastman, Bob Rafelson",Columbia Pictures
+211,,Howard G. Minsky,Arthur Hiller,Erich Segal,Paramount Pictures
+212,,Ingo Preminger,Robert Altman,Ring Lardner Jr.,20th Century Fox
+213,,Philip D'Antoni,William Friedkin,Ernest Tidyman,20th Century Fox
+214,,Stanley Kubrick,Stanley Kubrick,Stanley Kubrick,Warner Bros.
+215,,Norman Jewison,Norman Jewison,Joseph Stein,United Artists
+216,,Stephen J. Friedman,Peter Bogdanovich,"Peter Bogdanovich, Larry McMurtry",Columbia Pictures
+217,,Sam Spiegel,Franklin J. Schaffner,"James Goldman, Edward Bond",Sony Pictures Home Entertainment
+218,,Albert S. Ruddy,Francis Ford Coppola,"Francis Ford Coppola, Mario Puzo",Paramount Pictures
+219,,Cy Feuer,Bob Fosse,"Jay Presson Allen, Hugh Wheeler",Twentieth Century Fox Home Entertainment
+220,,John Boorman,John Boorman,"James Dickey, Dale Dye",Warner Bros.
+221,,"Tony Bill, Michael Phillips, and Julia Phillips",George Roy Hill,"David S. Ward, Marvin Hamlisch",Universal Pictures
+222,,Francis Ford Coppola and Gary Kurtz,George Lucas,"George Lucas, Gloria Katz, Willard Huyck",Universal Pictures
+223,,Ingmar Bergman,Ingmar Bergman,Ingmar Bergman,Criterion Collection
+224,116,William Peter Blatty,William Friedkin,William Peter Blatty,Warner Bros. Pictures
+225,,Melvin Frank,Melvin Frank,"Jack Rose, Melvin Frank",Media Home Entertainment
+226,,Robert Evans,Roman Polanski,Robert Towne,Paramount Pictures
+227,,Francis Ford Coppola,Francis Ford Coppola,Francis Ford Coppola,Paramount Pictures
+228,,Marvin Worth,Bob Fosse,Julian Barry,Twentieth Century Fox Home Entertainment
+229,,Irwin Allen,"John Guillermin, Irwin Allen","Sterling Silliphant, Stirling Silliphant",20th Century Fox
+230,,Michael Douglas and Saul Zaentz,Milos Forman,"Bo Goldman, Lawrence Hauben",United Artists
+231,,Stanley Kubrick,Stanley Kubrick,Stanley Kubrick,Warner Bros.
+232,,Martin Bregman and Martin Elfand,Sidney Lumet,"Frank Pierson, P.F. Kluge",WARNER BROTHERS PICTURES
+233,284,Richard D. Zanuck and David Brown,Steven Spielberg,"Howard Sackler, Carl Gottlieb, Peter Benchley",Universal Pictures
+234,16835,Richard D. Zanuck and David Brown,Steven Spielberg,"Howard Sackler, Carl Gottlieb, Peter Benchley",Universal Pictures
+235,,Robert Altman,Robert Altman,Joan Tewkesbury,Paramount Pictures
+236,,Irwin Winkler and Robert Chartoff,John G. Avildsen,Sylvester Stallone,United Artists
+237,,Walter Coblenz,Alan J. Pakula,William Goldman,Warner Home Video
+238,,Howard Gottfried,Sidney Lumet,Paddy Chayefsky,MGM/United Artists
+239,,Michael Phillips and Julia Phillips,Martin Scorsese,Paul Schrader,Columbia Pictures
+240,,Charles H. Joffe,Woody Allen,"Woody Allen, Marshall Brickman",United Artists
+241,,Ray Stark,Herbert Ross,Neil Simon,MGM Home Entertainment
+242,,"Barry Spikings, Michael Deeley, Michael Cimino, and John Peverall",Michael Cimino,"Deric Washburn, Louis Garfinkle, Quinn K. Redeker",Universal Pictures
+243,,Warren Beatty,"Warren Beatty, Buck Henry","Elaine May, Warren Beatty",Paramount Home Video
+244,,Alan Marshall and David Puttnam,Alan Parker,Oliver Stone,Sony Pictures Home Entertainment
+245,,Stanley R. Jaffe,Robert Benton,Robert Benton,Sony Pictures Home Entertainment
+246,,"Francis Ford Coppola, Fred Roos, Gray Frederickson, and Tom Sternberg",Francis Ford Coppola,"John Milius, Francis Ford Coppola, Michael Herr",United Artists
+247,,Peter Yates,Peter Yates,Steve Tesich,Twentieth Century Fox
+248,,Ronald L. Schwary,Robert Redford,Alvin Sargent,Paramount Pictures
+249,,Bernard Schwartz,Michael Apted,"Tom Rickman, Thomas Rickman",MCA Universal Home Video
+250,,Jonathan Sanger,David Lynch,"Eric Bergren, Christopher De Vore, David Lynch",Paramount
+251,,Irwin Winkler and Robert Chartoff,Martin Scorsese,"Paul Schrader, Mardik Martin, Martin Scorsese",United Artists
+252,,Claude Berri and Timothy Burrill,Roman Polanski,"Gérard Brach, Roman Polanski, John Brownjohn",Criterion Collection
+253,,David Puttnam,Hugh Hudson,Colin Welland,20th Century Fox
+254,,Denis Héroux,Louis Malle,John Guare,Paramount Home Video
+255,,Bruce Gilbert,Mark Rydell,Ernest Thompson,Twentieth Century Fox Home Entertainment
+256,,Frank Marshall,Steven Spielberg,Lawrence Kasdan,Paramount Pictures
+257,,Richard Attenborough,Richard Attenborough,"John Briley, Robert Bolt",Columbia Pictures
+258,,Sydney Pollack and Dick Richards,Sydney Pollack,"Larry Gelbart, Murray Schisgal, Sydney Pollack",Columbia Pictures
+259,,Richard D. Zanuck and David Brown,Sidney Lumet,David Mamet,Twentieth Century Fox Home Entertainment
+260,,James L. Brooks,James L. Brooks,James L. Brooks,Paramount Pictures
+261,,Michael Shamberg,Lawrence Kasdan,"Barbara Benedek, Lawrence Kasdan",Columbia Pictures
+262,,Peter Yates,Peter Yates,"Ronald Harwood, Peter Yates",Sony Pictures Entertainment
+263,,Philip S. Hobel,Bruce Beresford,Horton Foote,HBO Video
+264,,Saul Zaentz,Milos Forman,Peter Shaffer,Warner Bros. Pictures
+265,,David Puttnam,Roland Joffé,Bruce Robinson,Warner Home Video
+266,,John Brabourne and Richard B. Goodwin,David Lean,"Santha Rama Rau, David Lean",Sony Pictures Entertainment
+267,,Arlene Donovan,Robert Benton,Robert Benton,Twentieth Century Fox Home Entertainment
+268,,"Norman Jewison, Ronald L. Schwary, and Patrick Palmer",Norman Jewison,Charles Fuller,Sony Pictures Home Entertainment
+269,,Sydney Pollack,Sydney Pollack,"Kurt Luedtke, Kurt Luedtke",Universal Pictures
+270,,"Steven Spielberg, Kathleen Kennedy, Frank Marshall, and Quincy Jones",Steven Spielberg,Menno Meyjes,Warner Home Video
+271,,David Weisman,Hector Babenco,Leonard Schrader,Strand Releasing
+272,,Edward S. Feldman,Peter Weir,"William Kelley, Earl W. Wallace",Paramount Pictures
+273,,Arnold Kopelson,Oliver Stone,"Oliver Stone, Richard Boyle",Orion Pictures
+274,,Burt Sugarman and Patrick J. Palmer,Randa Haines,"Mark Medoff, Hesper Anderson, Lloyd Fonvielle",Paramount Pictures
+275,,Robert Greenhut,Woody Allen,Woody Allen,Orion Pictures
+276,,Fernando Ghia and David Puttnam,Roland Joffé,Robert Bolt,Warner Home Video
+277,,Jeremy Thomas,Bernardo Bertolucci,Mark Peploe,Columbia Pictures
+278,,James L. Brooks,"James L. Brooks, James A. Brooks",James L. Brooks,Twentieth Century Fox Home Entertainment
+279,,Stanley R. Jaffe and Sherry Lansing,Adrian Lyne,"James Dearden, Nicholas Meyer",Paramount Pictures
+280,,Patrick J. Palmer and Norman Jewison,Norman Jewison,"John Patrick Shanley, Norman Jewison",MGM Home Entertainment
+281,,Mark Johnson,Barry Levinson,"Ronald Bass, Barry Morrow, Barry Levinson, David Rayfiel",MGM
+282,,"Lawrence Kasdan, Charles Okun, and Michael Grillo",Lawrence Kasdan,"Anne Tyler, Frank Galati, Lawrence Kasdan",Warner Home Video
+283,,Norma Heyman and Hank Moonjean,Stephen Frears,Christopher Hampton,Warner Home Video
+284,,Frederick Zollo and Robert F. Colesberry,Alan Parker,"Chris Gerolmo, Chris Geroimo, Alan Parker",Orion Pictures Corporation
+285,,Douglas Wick,Mike Nichols,Kevin Wade,20th Century Fox
+286,,A. Kitman Ho and Oliver Stone,Oliver Stone,"Oliver Stone, Ron Kovic, Dave Freeman",Universal Pictures
+287,,"Steven Haft, Paul Junger Witt, and Tony Thomas",Peter Weir,Tom Schulman,Buena Vista Pictures
+288,,Lawrence Gordon and Charles Gordon,Phil Alden Robinson,Phil Alden Robinson,Universal Pictures
+289,,Noel Pearson,Jim Sheridan,"Shane Connaughton, Jim Sheridan",Miramax Films
+290,20701,Walter Parkes and Lawrence Lasker,Penny Marshall,"Steven Zaillian, Paul W. Shapiro",Columbia Pictures
+291,13930,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
+292,15086,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
+293,16235,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
+294,21145,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
+295,22397,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
+296,26864,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
+297,27655,Lisa Weinstein,Jerry Zucker,Bruce Joel Rubin,Paramount Pictures
+298,,"Edward Saxon, Kenneth Utt, and Ron Bozman",Jonathan Demme,Ted Tally,Orion Pictures Corporation
+299,4719,Don Hahn,Gary Trousdale,,Buena Vista
+300,4720,Don Hahn,Gary Trousdale,,Buena Vista
+301,4721,Don Hahn,Gary Trousdale,,Buena Vista
+302,8752,Don Hahn,Gary Trousdale,,Buena Vista
+303,8753,Don Hahn,Gary Trousdale,,Buena Vista
+304,8754,Don Hahn,Gary Trousdale,,Buena Vista
+305,,"Mark Johnson, Barry Levinson and Warren Beatty",Barry Levinson,James Toback,Sony Pictures Home Entertainment
+306,,A. Kitman Ho and Oliver Stone,Oliver Stone,"Oliver Stone, Zachary Sklar",Warner Bros.
+307,,Barbra Streisand and Andrew S. Karsch,Barbra Streisand,"Pat Conroy, Becky Johnston, Jay Presson Allen",Sony Pictures Home Entertainment
+308,,Clint Eastwood,Clint Eastwood,"Clint Eastwood, David Webb Peoples",Warner Bros. Pictures
+309,,Stephen Woolley,Neil Jordan,Neil Jordan,Live Home Video
+310,,"David Brown, Rob Reiner, and Andrew Scheinman",Rob Reiner,"Aaron Sorkin, Rob Reiner",Columbia Pictures
+311,,Ismail Merchant,James Ivory,Ruth Prawer Jhabvala,Sony Pictures Home Entertainment
+312,,Martin Brest,Martin Brest,Bo Goldman,Universal Pictures
+313,,"Steven Spielberg, Gerald R. Molen, and Branko Lustig",Steven Spielberg,Steven Zaillian,Universal Pictures
+314,,Arnold Kopelson,Andrew Davis,"Jeb Stuart, Andrew Davis, Roy Huggins, David Twohy, David Newman, Walter Hill, David Giler, Robert Mark Kamen",Warner Bros. Pictures
+315,,Jim Sheridan,Jim Sheridan,"Terry George, Jim Sheridan",Universal Pictures
+316,,Jan Chapman,Jane Campion,Jane Campion,Miramax Films
+317,,"Mike Nichols, John Calley, and Ismail Merchant",James Ivory,Ruth Prawer Jhabvala,Sony Pictures Home Entertainment
+318,,"Wendy Finerman, Steve Tisch, and Steve Starkey",Robert Zemeckis,Eric Roth,Paramount Pictures
+319,,Duncan Kenworthy,Mike Newell,"Richard Curtis, Mike Newell",Gramercy Pictures
+320,,Lawrence Bender,Quentin Tarantino,"Quentin Tarantino, Roger Avary",Miramax Films
+321,,"Michael Jacobs, Julian Krainin, Michael Nozik, and Robert Redford",Robert Redford,Paul Attanasio,Buena Vista Internationa
+322,,Niki Marvin,Frank Darabont,Frank Darabont,Columbia Pictures
+323,,"Mel Gibson, Alan Ladd Jr., and Bruce Davey",Mel Gibson,Randall Wallace,Paramount Pictures
+324,,Brian Grazer,Ron Howard,"Al Reinert, William Broyles",Universal Pictures
+325,30353,"Bill Miller, George Miller, and Doug Mitchell",Chris Noonan,Chris Noonan,Universal Pictures
+326,,Saul Zaentz,Anthony Minghella,Anthony Minghella,Miramax Films
+327,,Ethan Coen,"Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",Gramercy Pictures
+328,27000,Jane Scott,Scott Hicks,"Jan Sardi, Scott Hicks",New Line Home Entertainment
+329,,James Cameron and Jon Landau,James Cameron,James Cameron,Paramount Pictures
+330,,"James L. Brooks, Bridget Johnson, and Kristi Zea",James L. Brooks,"Mark Andrus, James L. Brooks",TriStar Pictures
+331,,Uberto Pasolini,Peter Cattaneo,"Simon Beaufoy, Simon Beaufor",Twentieth Century Fox Home Entertainment
+332,,Lawrence Bender,Gus Van Sant,"Ben Affleck, Matt Damon, Gus Van Sant",Miramax Films
+333,,"Curtis Hanson, Arnon Milchan, and Michael Nathanson",Curtis Hanson,"Curtis Hanson, Brian Helgeland",Warner Bros. Pictures
+334,,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick, and Marc Norman",John Madden (II),"Marc Norman, Tom Stoppard",Miramax
+335,,"Alison Owen, Eric Fellner and Tim Bevan",Shekhar Kapur,Michael Hirst,Gramercy
+336,,"Steven Spielberg, Ian Bryce, Mark Gordon, and Gary Levinsohn",Steven Spielberg,"Scott Frank, Robert Rodat, Frank Darabont",Dreamworks Distribution
+337,,"Robert Michael Geisler, John Roberdeau, and Grant Hill",Terrence Malick,Terrence Malick,20th Century Fox
+338,,Bruce Cohen and Dan Jinks,Sam Mendes,Alan Ball,Dreamworks
+339,,Richard N. Gladstein,Lasse Hallstrom,John Irving,Miramax
+340,,Frank Darabont and David Valdes,Frank Darabont,Frank Darabont,Warner Bros. Pictures
+341,,Pieter Jan Brugge and Michael Mann,Michael Mann,"Eric Roth, Michael Mann",Buena Vista Pictures
+342,,"Frank Marshall, Kathleen Kennedy, and Barry Mendel",M. Night Shyamalan,M. Night Shyamalan,Hollywood/Buena Vista
+343,,"Douglas Wick, David Franzoni, and Branko Lustig",Ridley Scott,"David H. Franzoni, William Nicholson, John Logan",Dreamworks Distribution LLC
+344,,"David Brown, Kit Golden, and Leslie Holleran",Lasse Hallstrom,Robert Nelson Jacobs,Miramax
+345,,"Danny DeVito, Michael Shamberg, and Stacey Sher",Steven Soderbergh,"Richard LaGravenese, Steven Soderbergh, Susannah Grant",Universal Pictures
+346,,"Edward Zwick, Marshall Herskovitz, and Laura Bickford",Steven Soderbergh,Stephen Gaghan,USA Films
+347,,Brian Grazer and Ron Howard,Ron Howard,Akiva Goldsman,Universal Pictures
+348,,"Robert Altman, Bob Balaban, and David Levy",Robert Altman,"Julian Fellowes, James Fellowes",USA Films
+349,,"Graham Leader, Ross Katz, and Todd Field",Todd Field,"Rob Festinger, Todd Field",Miramax Films
+350,,"Peter Jackson, Fran Walsh, and Barrie M. Osborne",Peter Jackson,"Fran Walsh, Peter Jackson, Philippa Boyens",New Line Cinema
+351,,"Martin Brown, Baz Luhrmann, and Fred Baron",Baz Luhrmann,"Baz Luhrmann, Craig Pearce",20th Century Fox
+352,,Martin Richards,Rob Marshall,Bill Condon,Miramax Films
+353,,Alberto Grimaldi and Harvey Weinstein,Martin Scorsese,"Jay Cocks, Steven Zaillian, Kenneth Lonergan",Miramax Films
+354,,Scott Rudin and Robert Fox,Stephen Daldry,David Hare,Miramax Films
+355,,"Barrie M. Osborne, Fran Walsh, and Peter Jackson",Peter Jackson,"Philippa Boyens, Stephen Sinclair, Fran Walsh",New Line Cinema
+356,,"Roman Polanski, Robert Benmussa, and Alain Sarde",Roman Polanski,Ronald Harwood,Focus Features
+357,,"Barrie M. Osborne, Peter Jackson, and Fran Walsh",Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson",New Line Cinema
+358,,"Samuel Goldwyn Jr., Peter Weir, and Duncan Henderson",Peter Weir,"Peter Weir, John Collee",20th Century Fox
+359,,"Robert Lorenz, Judie G. Hoyt, and Clint Eastwood",Clint Eastwood,Brian Helgeland,WB
+360,,"Kathleen Kennedy, Frank Marshall, and Gary Ross",Gary Ross,Gary Ross,Universal Pictures
+361,,"Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg",Clint Eastwood,"Clint Eastwood, Paul Haggis",Warner Bros. Pictures
+362,,Michael Mann and Graham King,Martin Scorsese,John Logan,Miramax
+363,,Richard N. Gladstein and Nellie Bellflower,Marc Forster,"David Magee, Marc Forster",Miramax Films
+364,,"Taylor Hackford, Stuart Benjamin, and Howard Baldwin",Taylor Hackford,"James L. White, Taylor Hackford, Jimmy ""Whirlwind"" White",Universal Pictures
+365,,Michael London,Alexander Payne,"Alexander Payne, Jim Taylor (III)",Fox Searchlight Pictures
+366,,Paul Haggis and Cathy Schulman,Paul Haggis,"Bobby Moresco, Paul Haggis",Lions Gate Films
+367,,Diana Ossana and James Schamus,Ang Lee,"Larry McMurtry, Diana Ossana, Ang Lee",Focus Features
+368,,"Caroline Baron, William Vince, and Michael Ohoven",Bennett Miller,Dan Futterman,Sony Pictures Classics
+369,,"Steven Spielberg, Kathleen Kennedy, and Barry Mendel",Steven Spielberg,"Tony Kushner, Eric Roth",Universal Pictures
+370,,Graham King,Martin Scorsese,"William Monahan, Martin Scorsese",Warner Bros. Pictures
+371,,"Alejandro González Iñárritu, Steve Golin, and Jon Kilik",Alejandro González Iñárritu,"Guillermo Arriaga Jordan, Guillermo Arriaga",Paramount Classics
+372,,"Clint Eastwood, Steven Spielberg, and Robert Lorenz",Clint Eastwood,Iris Yamashita,Warner Bros. Pictures
+373,,"David T. Friendly, Peter Saraf, and Marc Turtletaub","Jonathan Dayton, Valerie Faris","Michael Arndt, Jonathan Dayton",Fox Searchlight
+374,,"Andy Harries, Christine Langan, and Tracey Seaward",Stephen Frears,Peter Morgan,Miramax Films
+375,,"Scott Rudin, Joel Coen, and Ethan Coen","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Miramax Films
+376,,"Tim Bevan, Eric Fellner, and Paul Webster",Joe Wright,"Ian McEwan, Christopher Hampton",Focus Features
+377,,"Lianne Halfon, Mason Novick, and Russell Smith",Jason Reitman,Diablo Cody,Fox Searchlight
+378,,"Jennifer Fox, Kerry Orent, and Sydney Pollack",Tony Gilroy,Tony Gilroy,Warner Bros. Pictures
+379,,"Paul Thomas Anderson, Daniel Lupi, and JoAnne Sellar",Paul Thomas Anderson,Paul Thomas Anderson,Paramount Vantage
+380,,Christian Colson,Danny Boyle,"Danny Boyle, Simon Beaufoy",Fox Searchlight Pictures
+381,,"Kathleen Kennedy, Frank Marshall, and Ceán Chaffin",David Fincher,"Eric Roth, Robin Swicord",Paramount
+382,,"Ron Howard, Brian Grazer, and Eric Fellner",Ron Howard,Peter Morgan,Universal Pictures
+383,16775,Bruce Cohen and Dan Jinks,Gus Van Sant,Dustin Lance Black,Focus Features
+384,26271,Bruce Cohen and Dan Jinks,Gus Van Sant,Dustin Lance Black,Focus Features
+385,,"Anthony Minghella, Sydney Pollack, Donna Gigliotti, and Redmond Morris",Stephen Daldry,David Hare,The Weinstein Co./MGM
+386,12663,James Cameron and Jon Landau,James Cameron,James Cameron,20th Century Fox
+387,,"Gil Netter, Andrew A. Kosove, and Broderick Johnson",John Lee Hancock,John Lee Hancock,Warner Bros. Pictures
+388,,Peter Jackson and Carolynne Cunningham,Neill Blomkamp,"Neill Blomkamp, Terri Tatchell",Sony Pictures/Screen Gems
+389,,Finola Dwyer and Amanda Posey,Lone Scherfig,Nick Hornby,Sony Classics
+390,,Lawrence Bender,Quentin Tarantino,Quentin Tarantino,The Weinstein Company
+391,,Joel Coen and Ethan Coen,"Roger Deakins, Joel Coen, Ethan Coen","Joel Coen, Ethan Coen",Focus Features
+392,,Jonas Rivera,"Linn Patrick, Pete Docter, Bob Peterson, Peter Docter","Bob Peterson, Pete Docter, Tom McCarthy, Ronnie del Carmen",Walt Disney Pictures
+393,,"Daniel Dubiecki, Ivan Reitman, and Jason Reitman",Jason Reitman,"Sheldon Turner, Jason Reitman",Paramount Pictures
+394,,"Iain Canning, Emile Sherman, and Gareth Unwin",Tom Hooper,David Seidler,The Weinstein Company
+395,,"Danny Boyle, John Smithson, and Christian Colson",Danny Boyle,"Danny Boyle, Simon Beaufoy",Fox Searchlight
+396,513,"Scott Franklin, Mike Medavoy, and Brian Oliver",Darren Aronofsky,"Andres Heinz, Mark Heyman, John J. McLaughlin",Fox Searchlight
+397,,"David Hoberman, Todd Lieberman, and Mark Wahlberg",David O. Russell,"Eric Johnson, Scott Silver, Paul Tamasy, Paul Attanasio, David O. Russell",Paramount Pictures
+398,,Christopher Nolan and Emma Thomas,Christopher Nolan,Christopher Nolan,Warner Bros. Pictures
+399,,"Gary Gilbert, Jeffrey Levy-Hinte, and Celine Rattray",Lisa Cholodenko,"Lisa Cholodenko, Stuart Blumberg",Focus Features
+400,,"Dana Brunetti, Ceán Chaffin, Michael De Luca, and Scott Rudin",David Fincher,"David Fincher, Aaron Sorkin",Columbia Pictures
+401,,Darla K. Anderson,Lee Unkrich,"Lee Unkrich, Andrew Stanton, John Lasseter, Michael Arndt",Walt Disney Pictures
+402,,"Joel Coen, Ethan Coen, and Scott Rudin","Joel Coen, Ethan Coen","Ethan Coen, Joel Coen",Paramount Pictures
+403,,Alix Madigan and Anne Rosellini,Debra Granik,"Debra Granik, Anne Rosellini",Roadside Attractions
+404,29656,Thomas Langmann,Michel Hazanavicius,Michel Hazanavicius,The Weinstein Company
+405,,"Jim Burke, Alexander Payne, and Jim Taylor",Alexander Payne,"Jim Rash, Alexander Payne, Nat Faxon",Fox Searchlight Pictures
+406,,"Brunson Green, Chris Columbus, and Michael Barnathan",Tate Taylor,Tate Taylor,DreamWorks Studios
+407,,Graham King and Martin Scorsese,Martin Scorsese,John Logan,Paramount Studios
+408,,Letty Aronson and Stephen Tenenbaum,Woody Allen,Woody Allen,Sony Pictures Classics
+409,,"Michael De Luca, Rachael Horovitz, and Brad Pitt",Bennett Miller,"Steven Zaillian, Aaron Sorkin",Sony Pictures
+410,,"Sarah Green, Bill Pohlad, Dede Gardner, and Grant Hill",Terrence Malick,Terrence Malick,Fox Searchlight
+411,,Steven Spielberg and Kathleen Kennedy,Steven Spielberg,"Richard Curtis, Lee Hall",Walt Disney Pictures
+412,,"Grant Heslov, Ben Affleck, and George Clooney",Ben Affleck,Chris Terrio,Warner Bros. Pictures
+413,,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka, and Michael Katz","Michael Haneke, Michaelhaneke","Michael Haneke, Michaelhaneke",Sony Pictures Classics
+414,,"Dan Janvey, Josh Penn, and Michael Gottwald",Benh Zeitlin,"Benh Zeitlin, Lucy Alibar",Fox Searchlight
+415,,"Stacey Sher, Reginald Hudlin, and Pilar Savone",Quentin Tarantino,Quentin Tarantino,The Weinstein Co.
+416,,"Gil Netter, Ang Lee, and David Womark",Ang Lee,David Magee,20th Century Fox
+417,,"Tim Bevan, Eric Fellner, Debra Hayward, and Cameron Mackintosh",Tom Hooper,"Claude-Michel Schonberg, William Nicholson, Claude-Michel Schoenberg, Alain Boublil, Herbert Kretzmer",Universal Pictures
+418,,"Donna Gigliotti, Bruce Cohen, and Jonathan Gordon",David O. Russell,David O. Russell,The Weinstein Company
+419,,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas",Steve McQueen (III),John Ridley,Fox Searchlight
+420,,"Charles Roven, Richard Suckle, Megan Ellison, and Jonathan Gordon",David O. Russell,"Eric Warren Singer, David O. Russell",Sony Pictures
+421,,"Scott Rudin, Dana Brunetti, and Michael De Luca",Paul Greengrass,Billy Ray,Sony Pictures
+422,,Robbie Brenner and Rachel Winter,Jean-Marc Vallée,"Craig Borten, Melisa Wallack",Focus Features
+423,,Alfonso Cuarón and David Heyman,Alfonso Cuarón,"Alfonso Cuarón, Jonás Cuarón",Warner Bros. Pictures
+424,,"Megan Ellison, Spike Jonze, and Vincent Landay",Spike Jonze,Spike Jonze,Warner Bros. Pictures
+425,,Albert Berger and Ron Yerxa,Alexander Payne,Bob Nelson,Paramount Pictures
+426,,"Gabrielle Tana, Steve Coogan, and Tracey Seaward",Stephen Frears,"Jeff Pope, Steve Coogan",The Weinstein Company
+427,,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland, and Emma Tillinger Koskoff",Martin Scorsese,Terence Winter,Paramount Studios
+428,,Richard Linklater and Cathleen Sutherland,Richard Linklater,Richard Linklater,IFC Films
+429,,"Wes Anderson, Scott Rudin, Steven M. Rales, and Jeremy Dawson",Wes Anderson,"Hugo Guinness, Wes Anderson",Fox Searchlight
+430,,"Nora Grossman, Ido Ostrowsky, and Teddy Schwarzman",Morten Tyldum,Graham Moore,The Weinstein Company
+431,,"Christian Colson, Oprah Winfrey, Dede Gardner, and Jeremy Kleiner",Ava DuVernay,Paul Webb,Paramount Pictures
+432,,"Tim Bevan, Eric Fellner, Lisa Bruce, and Anthony McCarten",James Marsh,Anthony McCarten,Focus Features
+433,,"Jason Blum, Helen Estabrook, and David Lancaster",Damien Chazelle,Damien Chazelle,Sony Pictures Classics
+434,,"Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar",,Josh Singer,Open Road Films
+435,,"Dede Gardner, Jeremy Kleiner, and Brad Pitt",Adam McKay,"Adam McKay, Charles Randolph",Paramount Pictures
+436,,"Steven Spielberg, Marc Platt, and Kristie Macosko Krieger",Steven Spielberg,"Matthew Charman, Steven Spielberg, Matt Charman, Ethan Coen, Joel Coen",Dreamworks Pictures
+437,,Finola Dwyer and Amanda Posey,John Crowley,Nick Hornby,Fox Searchlight Pictures
+438,,Doug Mitchell and George Miller,George Miller,"Brendan McCarthy, Nick Lathouris, George Miller",Warner Bros.
+439,,"Simon Kinberg, Ridley Scott, Michael Schaefer, and Mark Huffam",Ridley Scott,"Ridley Scott, Drew Goddard",20th Century Fox
+440,3122,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent, and Keith Redmon","Alejandro González Iñárritu, Manny Palo","Mark L. Smith, Alejandro González Iñárritu",20th Century Fox
+441,,Ed Guiney,Lenny Abrahamson,Emma Donoghue,Element Pictures
+442,,"Adele Romanski, Dede Gardner, and Jeremy Kleiner",Barry Jenkins (III),Barry Jenkins (III),A24 Films
+443,,"Shawn Levy, Dan Levine, Aaron Ryder, and David Linde",Denis Villeneuve,Eric Heisserer,21 Laps Entertainment
+444,,"Scott Rudin, Denzel Washington, and Todd Black",Denzel Washington,August Wilson,Paramount Pictures
+445,,Bill Mechanic and David Permut,Mel Gibson,"Andrew Knight, Robert Schenkkan",Summit Entertainment
+446,,Carla Hacken and Julie Yorn,David Mackenzie,Taylor Sheridan,Film 44
+447,,"Fred Berger, Jordan Horowitz, and Marc Platt",Damien Chazelle,Damien Chazelle,Liongate Films
+448,,"Emile Sherman, Iain Canning, and Angie Fielder",Garth Davis,"Saroo Brierley, Luke Davies",See-Saw Films
+449,,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck, and Kevin J. Walsh",Kenneth Lonergan,Kenneth Lonergan,Roadside Attractions 
+450,,Guillermo del Toro and J. Miles Dale,Guillermo del Toro,"Guillermo del Toro, Vanessa Taylor",Fox Searchlight Pictures
+451,,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, and Douglas Urbanski",Joe Wright,Anthony McCarten,Focus Features
+452,,Emma Thomas and Christopher Nolan,Christopher Nolan,Christopher Nolan,Warner Bros. Pictures
+453,182,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan Peele",Jordan Peele,Jordan Peele,Universal Pictures
+454,,"Scott Rudin, Eli Bush, and Evelyn O'Neill",Greta Gerwig,Greta Gerwig,A24
+455,,"Graham Broadbent, Pete Czernin, and Martin McDonagh",Martin McDonagh,Martin McDonagh,Fox Searchlight Pictures
+456,,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga",Peter Farrelly,"Nick Vallelonga, Peter Farrelly, Brian Currie",Universal Pictures
+457,,Kevin Feige,Ryan Coogler,"Joe Robert Cole, Ryan Coogler",Marvel Studios
+458,,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele, and Spike Lee",Spike Lee,"Charlie Wachtel, David Rabinowitz, Kevin Willmott, Spike Lee",Focus Features
+459,,Graham King,Bryan Singer,Anthony McCarten,20th Century Fox
+460,,"Ceci Dempsey, Ed Guiney, Lee Magiday, and Yorgos Lanthimos",Yorgos Lanthimos,"Deborah Davis, Tony McNamara","Fox Searchlight Pictures, Film4 and Waypoint"
+461,,Gabriela Rodríguez and Alfonso Cuarón,Alfonso Cuarón,Alfonso Cuarón,Netflix
+462,,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",Bradley Cooper,"Will Fetters, Eric Roth, Bradley Cooper",Warner Bros. Pictures
+463,,"Dede Gardner, Jeremy Kleiner, Adam McKay, and Kevin Messick",Adam McKay,Adam McKay,Annapurna Pictures
+464,,"Martin Scorsese, Robert De Niro, Jane Rosenthal, and Emma Tillinger Koskoff",Martin Scorsese,Steven Zaillian,Netflix
+465,,"Todd Phillips, Bradley Cooper, and Emma Tillinger Koskoff",Todd Phillips,"Todd Phillips, Scott Silver",Warner Bros. Pictures
+466,,Noah Baumbach and David Heyman,Noah Baumbach,Noah Baumbach,Netflix
