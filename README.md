@@ -69,7 +69,6 @@ Deavtivate when Finished
 3. __Visualizations Folder__
     - pngs of plots created in perfect_horror_movie.ipynb
     - ERD (ERD.png)
-    - extra visuals used in readme.md (taken from pinterest)
 
 ## Findings  
 
