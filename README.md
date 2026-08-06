@@ -1,4 +1,4 @@
-![the shining aesthetic project title](Visualizations/Project_Title.jpeg)
+
 
 
 # The Perfect Horror Movie  
@@ -124,5 +124,3 @@ My findings did point to the drama genre being the main contender for Oscar Best
 - educational enhancement
 - AI generated content (cinatomy dataset)
 - AI tool usage (code partially wrote by AI for genre unifying function)
-
-![nostalic vhs rental aisle](Visualizations/vhs_rentals.jpeg)
